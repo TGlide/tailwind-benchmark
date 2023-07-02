@@ -1,0 +1,108 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #222;
+	padding-inline: 1rem;
+	font-family: Arial, sans-serif;
+	line-height: 1.5;
+}
+
+.card1 {
+	background-color: #fff;
+	max-width: 20rem;
+	margin-inline: auto;
+	padding: 1rem;
+	margin-block: 1rem;
+	border-radius: 0.5rem;
+}
+
+.card2 {
+	background-color: #fff;
+	max-width: 22rem;
+	margin-inline: auto;
+	padding: 1.25rem;
+	margin-block: 1rem;
+	border-radius: 0.5rem;
+}
+
+.card3 {
+	background-color: #eee;
+	max-width: 18rem;
+	margin-inline: auto;
+	padding: 1rem;
+	margin-block: 1.5rem;
+	border-radius: 0.5rem;
+	font-size: 1.25rem;
+}
+
+.card4 {
+	background-color: red;
+	color: white;
+	max-width: 15rem;
+	margin-inline: auto;
+	padding: 1rem;
+	margin-block: 1.25rem;
+	border-radius: 1rem;
+}
+
+.card5 {
+	background-color: green;
+	color: white;
+	max-width: 25rem;
+	margin-inline: auto;
+	padding: 0.5rem;
+	margin-block: 1rem;
+	border-radius: 0.5rem;
+}
+
+.card6 {
+	background-color: #eee;
+	max-width: 30rem;
+	margin-inline: auto;
+	padding: 1.5rem;
+	font-size: 2rem;
+	margin-block: 1rem;
+	border-radius: 0.5rem;
+}
+
+.card7 {
+	background-color: aqua;
+	max-width: 30rem;
+	margin-inline: auto;
+	padding: 2rem;
+	margin-block: 1rem;
+	border-radius: 1rem;
+}
+
+.card8 {
+	background-color: black;
+	color: white;
+	max-width: 24rem;
+	margin-inline: auto;
+	padding: 1.25rem;
+	margin-block: 1.5rem;
+	border-radius: 0.25rem;
+}
+
+.card9 {
+	background-color: #444;
+	color: white;
+	max-width: 20rem;
+	margin-inline: auto;
+	padding: 1rem;
+	margin-block: 1.25rem;
+	border-radius: 0.5rem;
+}
+
+.card10 {
+	background-color: yellow;
+	max-width: 30rem;
+	margin-inline: auto;
+	padding: 1.5rem;
+	margin-block: 0.25rem;
+	border-radius: 1rem;
+}
