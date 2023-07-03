@@ -1,108 +1,8000 @@
-* {
-	padding: 0;
-	margin: 0;
-	box-sizing: border-box;
+.card-0 {
+  background-color: green;
+  max-width: 6px;
+  width: 64px;
+  height: 64px;
+  padding: 16px;
+  margin: 2px;
 }
-
-body {
-	background-color: #222;
-	padding-inline: 1rem;
-	font-family: Arial, sans-serif;
-	line-height: 1.5;
+.card-1 {
+  background-color: pink;
+  max-width: 16px;
+  width: 12px;
+  height: 20px;
+  padding: 8px;
+  margin: 96px;
 }
-
-.card1 {
-	background-color: #fff;
-	max-width: 20rem;
-	margin-inline: auto;
-	padding: 1rem;
-	margin-block: 1rem;
-	border-radius: 0.5rem;
+.card-2 {
+  background-color: red;
+  max-width: 4px;
+  width: 12px;
+  height: 20px;
+  padding: 2px;
+  margin: 2px;
 }
-
-.card2 {
-	background-color: #fff;
-	max-width: 22rem;
-	margin-inline: auto;
-	padding: 1.25rem;
-	margin-block: 1rem;
-	border-radius: 0.5rem;
+.card-3 {
+  background-color: pink;
+  max-width: 4px;
+  width: 0px;
+  height: 64px;
+  padding: 24px;
+  margin: 2px;
 }
-
-.card3 {
-	background-color: #eee;
-	max-width: 18rem;
-	margin-inline: auto;
-	padding: 1rem;
-	margin-block: 1.5rem;
-	border-radius: 0.5rem;
-	font-size: 1.25rem;
+.card-4 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 6px;
+  height: 20px;
+  padding: 6px;
+  margin: 8px;
 }
-
-.card4 {
-	background-color: red;
-	color: white;
-	max-width: 15rem;
-	margin-inline: auto;
-	padding: 1rem;
-	margin-block: 1.25rem;
-	border-radius: 1rem;
+.card-5 {
+  background-color: red;
+  max-width: 4px;
+  width: 32px;
+  height: 4px;
+  padding: 20px;
+  margin: 32px;
 }
-
-.card5 {
-	background-color: green;
-	color: white;
-	max-width: 25rem;
-	margin-inline: auto;
-	padding: 0.5rem;
-	margin-block: 1rem;
-	border-radius: 0.5rem;
+.card-6 {
+  background-color: red;
+  max-width: 12px;
+  width: 64px;
+  height: 18px;
+  padding: 8px;
+  margin: 24px;
 }
-
-.card6 {
-	background-color: #eee;
-	max-width: 30rem;
-	margin-inline: auto;
-	padding: 1.5rem;
-	font-size: 2rem;
-	margin-block: 1rem;
-	border-radius: 0.5rem;
+.card-7 {
+  background-color: pink;
+  max-width: 32px;
+  width: 12px;
+  height: 32px;
+  padding: 24px;
+  margin: 20px;
 }
-
-.card7 {
-	background-color: aqua;
-	max-width: 30rem;
-	margin-inline: auto;
-	padding: 2rem;
-	margin-block: 1rem;
-	border-radius: 1rem;
+.card-8 {
+  background-color: pink;
+  max-width: 8px;
+  width: 96px;
+  height: 64px;
+  padding: 12px;
+  margin: 64px;
 }
-
-.card8 {
-	background-color: black;
-	color: white;
-	max-width: 24rem;
-	margin-inline: auto;
-	padding: 1.25rem;
-	margin-block: 1.5rem;
-	border-radius: 0.25rem;
+.card-9 {
+  background-color: pink;
+  max-width: 18px;
+  width: 8px;
+  height: 12px;
+  padding: 32px;
+  margin: 18px;
 }
-
-.card9 {
-	background-color: #444;
-	color: white;
-	max-width: 20rem;
-	margin-inline: auto;
-	padding: 1rem;
-	margin-block: 1.25rem;
-	border-radius: 0.5rem;
+.card-10 {
+  background-color: green;
+  max-width: 12px;
+  width: 2px;
+  height: 16px;
+  padding: 32px;
+  margin: 32px;
 }
-
-.card10 {
-	background-color: yellow;
-	max-width: 30rem;
-	margin-inline: auto;
-	padding: 1.5rem;
-	margin-block: 0.25rem;
-	border-radius: 1rem;
+.card-11 {
+  background-color: red;
+  max-width: 20px;
+  width: 32px;
+  height: 20px;
+  padding: 4px;
+  margin: 12px;
+}
+.card-12 {
+  background-color: blue;
+  max-width: 6px;
+  width: 96px;
+  height: 4px;
+  padding: 64px;
+  margin: 0px;
+}
+.card-13 {
+  background-color: red;
+  max-width: 64px;
+  width: 4px;
+  height: 20px;
+  padding: 64px;
+  margin: 16px;
+}
+.card-14 {
+  background-color: pink;
+  max-width: 6px;
+  width: 64px;
+  height: 96px;
+  padding: 8px;
+  margin: 0px;
+}
+.card-15 {
+  background-color: red;
+  max-width: 18px;
+  width: 12px;
+  height: 16px;
+  padding: 6px;
+  margin: 16px;
+}
+.card-16 {
+  background-color: red;
+  max-width: 0px;
+  width: 32px;
+  height: 96px;
+  padding: 0px;
+  margin: 64px;
+}
+.card-17 {
+  background-color: blue;
+  max-width: 24px;
+  width: 2px;
+  height: 64px;
+  padding: 32px;
+  margin: 16px;
+}
+.card-18 {
+  background-color: pink;
+  max-width: 64px;
+  width: 24px;
+  height: 20px;
+  padding: 96px;
+  margin: 32px;
+}
+.card-19 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 32px;
+  height: 96px;
+  padding: 12px;
+  margin: 20px;
+}
+.card-20 {
+  background-color: green;
+  max-width: 8px;
+  width: 16px;
+  height: 16px;
+  padding: 64px;
+  margin: 8px;
+}
+.card-21 {
+  background-color: yellow;
+  max-width: 2px;
+  width: 2px;
+  height: 32px;
+  padding: 32px;
+  margin: 12px;
+}
+.card-22 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 96px;
+  height: 96px;
+  padding: 0px;
+  margin: 12px;
+}
+.card-23 {
+  background-color: pink;
+  max-width: 20px;
+  width: 96px;
+  height: 16px;
+  padding: 32px;
+  margin: 4px;
+}
+.card-24 {
+  background-color: pink;
+  max-width: 24px;
+  width: 24px;
+  height: 18px;
+  padding: 64px;
+  margin: 12px;
+}
+.card-25 {
+  background-color: green;
+  max-width: 18px;
+  width: 12px;
+  height: 20px;
+  padding: 96px;
+  margin: 6px;
+}
+.card-26 {
+  background-color: pink;
+  max-width: 0px;
+  width: 32px;
+  height: 0px;
+  padding: 96px;
+  margin: 24px;
+}
+.card-27 {
+  background-color: blue;
+  max-width: 96px;
+  width: 12px;
+  height: 2px;
+  padding: 20px;
+  margin: 18px;
+}
+.card-28 {
+  background-color: red;
+  max-width: 12px;
+  width: 0px;
+  height: 18px;
+  padding: 32px;
+  margin: 6px;
+}
+.card-29 {
+  background-color: red;
+  max-width: 18px;
+  width: 2px;
+  height: 16px;
+  padding: 96px;
+  margin: 18px;
+}
+.card-30 {
+  background-color: pink;
+  max-width: 32px;
+  width: 8px;
+  height: 12px;
+  padding: 6px;
+  margin: 4px;
+}
+.card-31 {
+  background-color: red;
+  max-width: 6px;
+  width: 64px;
+  height: 8px;
+  padding: 8px;
+  margin: 64px;
+}
+.card-32 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 2px;
+  height: 20px;
+  padding: 2px;
+  margin: 12px;
+}
+.card-33 {
+  background-color: green;
+  max-width: 4px;
+  width: 6px;
+  height: 32px;
+  padding: 20px;
+  margin: 8px;
+}
+.card-34 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 12px;
+  height: 20px;
+  padding: 4px;
+  margin: 96px;
+}
+.card-35 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 4px;
+  height: 24px;
+  padding: 96px;
+  margin: 16px;
+}
+.card-36 {
+  background-color: blue;
+  max-width: 18px;
+  width: 32px;
+  height: 96px;
+  padding: 12px;
+  margin: 12px;
+}
+.card-37 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 32px;
+  height: 24px;
+  padding: 16px;
+  margin: 24px;
+}
+.card-38 {
+  background-color: pink;
+  max-width: 18px;
+  width: 18px;
+  height: 64px;
+  padding: 6px;
+  margin: 20px;
+}
+.card-39 {
+  background-color: blue;
+  max-width: 64px;
+  width: 32px;
+  height: 4px;
+  padding: 20px;
+  margin: 8px;
+}
+.card-40 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 64px;
+  height: 2px;
+  padding: 2px;
+  margin: 8px;
+}
+.card-41 {
+  background-color: green;
+  max-width: 18px;
+  width: 6px;
+  height: 96px;
+  padding: 2px;
+  margin: 12px;
+}
+.card-42 {
+  background-color: red;
+  max-width: 4px;
+  width: 0px;
+  height: 12px;
+  padding: 96px;
+  margin: 0px;
+}
+.card-43 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 0px;
+  height: 16px;
+  padding: 20px;
+  margin: 12px;
+}
+.card-44 {
+  background-color: pink;
+  max-width: 0px;
+  width: 18px;
+  height: 12px;
+  padding: 12px;
+  margin: 0px;
+}
+.card-45 {
+  background-color: pink;
+  max-width: 2px;
+  width: 6px;
+  height: 24px;
+  padding: 64px;
+  margin: 8px;
+}
+.card-46 {
+  background-color: red;
+  max-width: 24px;
+  width: 18px;
+  height: 4px;
+  padding: 4px;
+  margin: 8px;
+}
+.card-47 {
+  background-color: red;
+  max-width: 32px;
+  width: 12px;
+  height: 96px;
+  padding: 24px;
+  margin: 16px;
+}
+.card-48 {
+  background-color: pink;
+  max-width: 24px;
+  width: 64px;
+  height: 4px;
+  padding: 20px;
+  margin: 12px;
+}
+.card-49 {
+  background-color: pink;
+  max-width: 8px;
+  width: 20px;
+  height: 16px;
+  padding: 0px;
+  margin: 0px;
+}
+.card-50 {
+  background-color: green;
+  max-width: 6px;
+  width: 96px;
+  height: 32px;
+  padding: 24px;
+  margin: 0px;
+}
+.card-51 {
+  background-color: pink;
+  max-width: 16px;
+  width: 96px;
+  height: 24px;
+  padding: 8px;
+  margin: 6px;
+}
+.card-52 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 18px;
+  height: 16px;
+  padding: 6px;
+  margin: 32px;
+}
+.card-53 {
+  background-color: green;
+  max-width: 6px;
+  width: 32px;
+  height: 64px;
+  padding: 32px;
+  margin: 96px;
+}
+.card-54 {
+  background-color: red;
+  max-width: 64px;
+  width: 20px;
+  height: 24px;
+  padding: 8px;
+  margin: 0px;
+}
+.card-55 {
+  background-color: red;
+  max-width: 16px;
+  width: 20px;
+  height: 64px;
+  padding: 4px;
+  margin: 12px;
+}
+.card-56 {
+  background-color: green;
+  max-width: 96px;
+  width: 32px;
+  height: 12px;
+  padding: 64px;
+  margin: 8px;
+}
+.card-57 {
+  background-color: green;
+  max-width: 18px;
+  width: 6px;
+  height: 24px;
+  padding: 2px;
+  margin: 96px;
+}
+.card-58 {
+  background-color: red;
+  max-width: 96px;
+  width: 32px;
+  height: 16px;
+  padding: 2px;
+  margin: 32px;
+}
+.card-59 {
+  background-color: blue;
+  max-width: 8px;
+  width: 20px;
+  height: 8px;
+  padding: 64px;
+  margin: 18px;
+}
+.card-60 {
+  background-color: blue;
+  max-width: 2px;
+  width: 4px;
+  height: 32px;
+  padding: 96px;
+  margin: 4px;
+}
+.card-61 {
+  background-color: green;
+  max-width: 8px;
+  width: 24px;
+  height: 96px;
+  padding: 6px;
+  margin: 16px;
+}
+.card-62 {
+  background-color: pink;
+  max-width: 8px;
+  width: 24px;
+  height: 4px;
+  padding: 32px;
+  margin: 2px;
+}
+.card-63 {
+  background-color: blue;
+  max-width: 12px;
+  width: 16px;
+  height: 2px;
+  padding: 20px;
+  margin: 96px;
+}
+.card-64 {
+  background-color: green;
+  max-width: 96px;
+  width: 12px;
+  height: 16px;
+  padding: 8px;
+  margin: 0px;
+}
+.card-65 {
+  background-color: red;
+  max-width: 16px;
+  width: 16px;
+  height: 4px;
+  padding: 4px;
+  margin: 0px;
+}
+.card-66 {
+  background-color: red;
+  max-width: 32px;
+  width: 8px;
+  height: 20px;
+  padding: 2px;
+  margin: 18px;
+}
+.card-67 {
+  background-color: red;
+  max-width: 24px;
+  width: 0px;
+  height: 0px;
+  padding: 20px;
+  margin: 2px;
+}
+.card-68 {
+  background-color: pink;
+  max-width: 64px;
+  width: 6px;
+  height: 64px;
+  padding: 12px;
+  margin: 64px;
+}
+.card-69 {
+  background-color: red;
+  max-width: 20px;
+  width: 64px;
+  height: 12px;
+  padding: 6px;
+  margin: 8px;
+}
+.card-70 {
+  background-color: red;
+  max-width: 32px;
+  width: 32px;
+  height: 96px;
+  padding: 4px;
+  margin: 0px;
+}
+.card-71 {
+  background-color: blue;
+  max-width: 20px;
+  width: 96px;
+  height: 20px;
+  padding: 20px;
+  margin: 6px;
+}
+.card-72 {
+  background-color: blue;
+  max-width: 16px;
+  width: 24px;
+  height: 24px;
+  padding: 24px;
+  margin: 4px;
+}
+.card-73 {
+  background-color: green;
+  max-width: 96px;
+  width: 18px;
+  height: 0px;
+  padding: 20px;
+  margin: 20px;
+}
+.card-74 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 12px;
+  height: 6px;
+  padding: 20px;
+  margin: 0px;
+}
+.card-75 {
+  background-color: blue;
+  max-width: 18px;
+  width: 20px;
+  height: 6px;
+  padding: 4px;
+  margin: 2px;
+}
+.card-76 {
+  background-color: red;
+  max-width: 16px;
+  width: 64px;
+  height: 8px;
+  padding: 6px;
+  margin: 20px;
+}
+.card-77 {
+  background-color: red;
+  max-width: 32px;
+  width: 8px;
+  height: 4px;
+  padding: 8px;
+  margin: 96px;
+}
+.card-78 {
+  background-color: red;
+  max-width: 4px;
+  width: 20px;
+  height: 12px;
+  padding: 24px;
+  margin: 96px;
+}
+.card-79 {
+  background-color: pink;
+  max-width: 0px;
+  width: 4px;
+  height: 2px;
+  padding: 4px;
+  margin: 2px;
+}
+.card-80 {
+  background-color: green;
+  max-width: 0px;
+  width: 16px;
+  height: 96px;
+  padding: 4px;
+  margin: 0px;
+}
+.card-81 {
+  background-color: blue;
+  max-width: 2px;
+  width: 96px;
+  height: 20px;
+  padding: 8px;
+  margin: 0px;
+}
+.card-82 {
+  background-color: red;
+  max-width: 96px;
+  width: 24px;
+  height: 64px;
+  padding: 24px;
+  margin: 2px;
+}
+.card-83 {
+  background-color: red;
+  max-width: 6px;
+  width: 0px;
+  height: 2px;
+  padding: 2px;
+  margin: 64px;
+}
+.card-84 {
+  background-color: green;
+  max-width: 0px;
+  width: 32px;
+  height: 16px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-85 {
+  background-color: blue;
+  max-width: 4px;
+  width: 96px;
+  height: 0px;
+  padding: 96px;
+  margin: 4px;
+}
+.card-86 {
+  background-color: green;
+  max-width: 32px;
+  width: 4px;
+  height: 12px;
+  padding: 18px;
+  margin: 4px;
+}
+.card-87 {
+  background-color: blue;
+  max-width: 0px;
+  width: 96px;
+  height: 64px;
+  padding: 8px;
+  margin: 18px;
+}
+.card-88 {
+  background-color: red;
+  max-width: 18px;
+  width: 96px;
+  height: 16px;
+  padding: 6px;
+  margin: 32px;
+}
+.card-89 {
+  background-color: blue;
+  max-width: 32px;
+  width: 6px;
+  height: 96px;
+  padding: 18px;
+  margin: 32px;
+}
+.card-90 {
+  background-color: red;
+  max-width: 8px;
+  width: 20px;
+  height: 0px;
+  padding: 20px;
+  margin: 24px;
+}
+.card-91 {
+  background-color: pink;
+  max-width: 96px;
+  width: 32px;
+  height: 8px;
+  padding: 96px;
+  margin: 16px;
+}
+.card-92 {
+  background-color: pink;
+  max-width: 4px;
+  width: 20px;
+  height: 32px;
+  padding: 8px;
+  margin: 2px;
+}
+.card-93 {
+  background-color: red;
+  max-width: 2px;
+  width: 20px;
+  height: 96px;
+  padding: 24px;
+  margin: 24px;
+}
+.card-94 {
+  background-color: green;
+  max-width: 2px;
+  width: 6px;
+  height: 2px;
+  padding: 64px;
+  margin: 6px;
+}
+.card-95 {
+  background-color: red;
+  max-width: 2px;
+  width: 12px;
+  height: 6px;
+  padding: 24px;
+  margin: 12px;
+}
+.card-96 {
+  background-color: blue;
+  max-width: 24px;
+  width: 16px;
+  height: 64px;
+  padding: 32px;
+  margin: 4px;
+}
+.card-97 {
+  background-color: blue;
+  max-width: 32px;
+  width: 16px;
+  height: 6px;
+  padding: 20px;
+  margin: 20px;
+}
+.card-98 {
+  background-color: red;
+  max-width: 16px;
+  width: 0px;
+  height: 12px;
+  padding: 20px;
+  margin: 16px;
+}
+.card-99 {
+  background-color: red;
+  max-width: 2px;
+  width: 24px;
+  height: 18px;
+  padding: 2px;
+  margin: 18px;
+}
+.card-100 {
+  background-color: red;
+  max-width: 18px;
+  width: 12px;
+  height: 24px;
+  padding: 64px;
+  margin: 24px;
+}
+.card-101 {
+  background-color: pink;
+  max-width: 0px;
+  width: 4px;
+  height: 24px;
+  padding: 16px;
+  margin: 4px;
+}
+.card-102 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 24px;
+  height: 24px;
+  padding: 24px;
+  margin: 24px;
+}
+.card-103 {
+  background-color: red;
+  max-width: 8px;
+  width: 32px;
+  height: 20px;
+  padding: 12px;
+  margin: 96px;
+}
+.card-104 {
+  background-color: yellow;
+  max-width: 64px;
+  width: 96px;
+  height: 20px;
+  padding: 16px;
+  margin: 24px;
+}
+.card-105 {
+  background-color: red;
+  max-width: 64px;
+  width: 96px;
+  height: 18px;
+  padding: 20px;
+  margin: 0px;
+}
+.card-106 {
+  background-color: red;
+  max-width: 96px;
+  width: 20px;
+  height: 2px;
+  padding: 0px;
+  margin: 4px;
+}
+.card-107 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 2px;
+  height: 16px;
+  padding: 64px;
+  margin: 16px;
+}
+.card-108 {
+  background-color: green;
+  max-width: 16px;
+  width: 96px;
+  height: 24px;
+  padding: 0px;
+  margin: 6px;
+}
+.card-109 {
+  background-color: blue;
+  max-width: 96px;
+  width: 32px;
+  height: 8px;
+  padding: 64px;
+  margin: 4px;
+}
+.card-110 {
+  background-color: pink;
+  max-width: 8px;
+  width: 16px;
+  height: 8px;
+  padding: 20px;
+  margin: 18px;
+}
+.card-111 {
+  background-color: pink;
+  max-width: 18px;
+  width: 4px;
+  height: 6px;
+  padding: 6px;
+  margin: 8px;
+}
+.card-112 {
+  background-color: red;
+  max-width: 4px;
+  width: 6px;
+  height: 4px;
+  padding: 32px;
+  margin: 2px;
+}
+.card-113 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 16px;
+  height: 96px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-114 {
+  background-color: pink;
+  max-width: 2px;
+  width: 8px;
+  height: 64px;
+  padding: 16px;
+  margin: 64px;
+}
+.card-115 {
+  background-color: green;
+  max-width: 32px;
+  width: 96px;
+  height: 12px;
+  padding: 32px;
+  margin: 20px;
+}
+.card-116 {
+  background-color: yellow;
+  max-width: 64px;
+  width: 0px;
+  height: 2px;
+  padding: 96px;
+  margin: 6px;
+}
+.card-117 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 96px;
+  height: 18px;
+  padding: 32px;
+  margin: 6px;
+}
+.card-118 {
+  background-color: blue;
+  max-width: 24px;
+  width: 24px;
+  height: 24px;
+  padding: 16px;
+  margin: 20px;
+}
+.card-119 {
+  background-color: pink;
+  max-width: 64px;
+  width: 6px;
+  height: 2px;
+  padding: 6px;
+  margin: 8px;
+}
+.card-120 {
+  background-color: green;
+  max-width: 20px;
+  width: 8px;
+  height: 64px;
+  padding: 4px;
+  margin: 18px;
+}
+.card-121 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 12px;
+  height: 96px;
+  padding: 20px;
+  margin: 20px;
+}
+.card-122 {
+  background-color: green;
+  max-width: 16px;
+  width: 16px;
+  height: 12px;
+  padding: 18px;
+  margin: 2px;
+}
+.card-123 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 0px;
+  height: 6px;
+  padding: 64px;
+  margin: 0px;
+}
+.card-124 {
+  background-color: blue;
+  max-width: 96px;
+  width: 6px;
+  height: 18px;
+  padding: 18px;
+  margin: 16px;
+}
+.card-125 {
+  background-color: yellow;
+  max-width: 12px;
+  width: 6px;
+  height: 18px;
+  padding: 12px;
+  margin: 6px;
+}
+.card-126 {
+  background-color: red;
+  max-width: 6px;
+  width: 32px;
+  height: 18px;
+  padding: 8px;
+  margin: 0px;
+}
+.card-127 {
+  background-color: blue;
+  max-width: 32px;
+  width: 64px;
+  height: 20px;
+  padding: 32px;
+  margin: 64px;
+}
+.card-128 {
+  background-color: pink;
+  max-width: 18px;
+  width: 18px;
+  height: 16px;
+  padding: 18px;
+  margin: 8px;
+}
+.card-129 {
+  background-color: blue;
+  max-width: 20px;
+  width: 0px;
+  height: 8px;
+  padding: 2px;
+  margin: 64px;
+}
+.card-130 {
+  background-color: red;
+  max-width: 16px;
+  width: 96px;
+  height: 12px;
+  padding: 20px;
+  margin: 12px;
+}
+.card-131 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 96px;
+  height: 16px;
+  padding: 96px;
+  margin: 16px;
+}
+.card-132 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 12px;
+  height: 20px;
+  padding: 12px;
+  margin: 6px;
+}
+.card-133 {
+  background-color: pink;
+  max-width: 8px;
+  width: 32px;
+  height: 20px;
+  padding: 4px;
+  margin: 0px;
+}
+.card-134 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 0px;
+  height: 6px;
+  padding: 8px;
+  margin: 16px;
+}
+.card-135 {
+  background-color: blue;
+  max-width: 20px;
+  width: 8px;
+  height: 12px;
+  padding: 2px;
+  margin: 8px;
+}
+.card-136 {
+  background-color: pink;
+  max-width: 96px;
+  width: 8px;
+  height: 8px;
+  padding: 32px;
+  margin: 12px;
+}
+.card-137 {
+  background-color: blue;
+  max-width: 18px;
+  width: 8px;
+  height: 18px;
+  padding: 96px;
+  margin: 6px;
+}
+.card-138 {
+  background-color: green;
+  max-width: 18px;
+  width: 2px;
+  height: 64px;
+  padding: 96px;
+  margin: 0px;
+}
+.card-139 {
+  background-color: green;
+  max-width: 4px;
+  width: 20px;
+  height: 8px;
+  padding: 8px;
+  margin: 6px;
+}
+.card-140 {
+  background-color: green;
+  max-width: 24px;
+  width: 18px;
+  height: 0px;
+  padding: 4px;
+  margin: 16px;
+}
+.card-141 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 6px;
+  height: 24px;
+  padding: 12px;
+  margin: 12px;
+}
+.card-142 {
+  background-color: pink;
+  max-width: 16px;
+  width: 20px;
+  height: 6px;
+  padding: 20px;
+  margin: 4px;
+}
+.card-143 {
+  background-color: green;
+  max-width: 4px;
+  width: 24px;
+  height: 20px;
+  padding: 96px;
+  margin: 8px;
+}
+.card-144 {
+  background-color: blue;
+  max-width: 16px;
+  width: 32px;
+  height: 64px;
+  padding: 20px;
+  margin: 8px;
+}
+.card-145 {
+  background-color: green;
+  max-width: 6px;
+  width: 16px;
+  height: 8px;
+  padding: 20px;
+  margin: 16px;
+}
+.card-146 {
+  background-color: pink;
+  max-width: 96px;
+  width: 96px;
+  height: 96px;
+  padding: 0px;
+  margin: 96px;
+}
+.card-147 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 8px;
+  height: 12px;
+  padding: 2px;
+  margin: 6px;
+}
+.card-148 {
+  background-color: green;
+  max-width: 32px;
+  width: 8px;
+  height: 0px;
+  padding: 24px;
+  margin: 64px;
+}
+.card-149 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 96px;
+  height: 0px;
+  padding: 6px;
+  margin: 20px;
+}
+.card-150 {
+  background-color: red;
+  max-width: 12px;
+  width: 0px;
+  height: 24px;
+  padding: 32px;
+  margin: 16px;
+}
+.card-151 {
+  background-color: pink;
+  max-width: 4px;
+  width: 12px;
+  height: 16px;
+  padding: 20px;
+  margin: 2px;
+}
+.card-152 {
+  background-color: red;
+  max-width: 96px;
+  width: 12px;
+  height: 0px;
+  padding: 12px;
+  margin: 96px;
+}
+.card-153 {
+  background-color: blue;
+  max-width: 0px;
+  width: 4px;
+  height: 2px;
+  padding: 4px;
+  margin: 2px;
+}
+.card-154 {
+  background-color: blue;
+  max-width: 2px;
+  width: 8px;
+  height: 20px;
+  padding: 24px;
+  margin: 2px;
+}
+.card-155 {
+  background-color: blue;
+  max-width: 96px;
+  width: 2px;
+  height: 2px;
+  padding: 96px;
+  margin: 24px;
+}
+.card-156 {
+  background-color: green;
+  max-width: 16px;
+  width: 64px;
+  height: 6px;
+  padding: 8px;
+  margin: 8px;
+}
+.card-157 {
+  background-color: green;
+  max-width: 18px;
+  width: 12px;
+  height: 12px;
+  padding: 32px;
+  margin: 2px;
+}
+.card-158 {
+  background-color: red;
+  max-width: 6px;
+  width: 0px;
+  height: 8px;
+  padding: 8px;
+  margin: 6px;
+}
+.card-159 {
+  background-color: pink;
+  max-width: 20px;
+  width: 8px;
+  height: 2px;
+  padding: 8px;
+  margin: 96px;
+}
+.card-160 {
+  background-color: red;
+  max-width: 0px;
+  width: 18px;
+  height: 16px;
+  padding: 16px;
+  margin: 4px;
+}
+.card-161 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 64px;
+  height: 64px;
+  padding: 0px;
+  margin: 0px;
+}
+.card-162 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 32px;
+  height: 12px;
+  padding: 20px;
+  margin: 12px;
+}
+.card-163 {
+  background-color: green;
+  max-width: 12px;
+  width: 32px;
+  height: 64px;
+  padding: 8px;
+  margin: 2px;
+}
+.card-164 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 8px;
+  height: 24px;
+  padding: 2px;
+  margin: 4px;
+}
+.card-165 {
+  background-color: red;
+  max-width: 96px;
+  width: 12px;
+  height: 0px;
+  padding: 64px;
+  margin: 4px;
+}
+.card-166 {
+  background-color: red;
+  max-width: 24px;
+  width: 32px;
+  height: 64px;
+  padding: 20px;
+  margin: 20px;
+}
+.card-167 {
+  background-color: blue;
+  max-width: 96px;
+  width: 0px;
+  height: 12px;
+  padding: 4px;
+  margin: 4px;
+}
+.card-168 {
+  background-color: green;
+  max-width: 16px;
+  width: 24px;
+  height: 32px;
+  padding: 4px;
+  margin: 20px;
+}
+.card-169 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 24px;
+  height: 12px;
+  padding: 2px;
+  margin: 8px;
+}
+.card-170 {
+  background-color: blue;
+  max-width: 12px;
+  width: 96px;
+  height: 18px;
+  padding: 24px;
+  margin: 32px;
+}
+.card-171 {
+  background-color: pink;
+  max-width: 4px;
+  width: 8px;
+  height: 20px;
+  padding: 12px;
+  margin: 24px;
+}
+.card-172 {
+  background-color: red;
+  max-width: 32px;
+  width: 0px;
+  height: 18px;
+  padding: 24px;
+  margin: 18px;
+}
+.card-173 {
+  background-color: green;
+  max-width: 0px;
+  width: 96px;
+  height: 32px;
+  padding: 16px;
+  margin: 2px;
+}
+.card-174 {
+  background-color: pink;
+  max-width: 8px;
+  width: 20px;
+  height: 32px;
+  padding: 64px;
+  margin: 12px;
+}
+.card-175 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 24px;
+  height: 2px;
+  padding: 64px;
+  margin: 4px;
+}
+.card-176 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 64px;
+  height: 8px;
+  padding: 2px;
+  margin: 20px;
+}
+.card-177 {
+  background-color: pink;
+  max-width: 24px;
+  width: 20px;
+  height: 32px;
+  padding: 16px;
+  margin: 4px;
+}
+.card-178 {
+  background-color: red;
+  max-width: 4px;
+  width: 6px;
+  height: 2px;
+  padding: 24px;
+  margin: 16px;
+}
+.card-179 {
+  background-color: green;
+  max-width: 4px;
+  width: 12px;
+  height: 96px;
+  padding: 96px;
+  margin: 96px;
+}
+.card-180 {
+  background-color: red;
+  max-width: 20px;
+  width: 12px;
+  height: 96px;
+  padding: 96px;
+  margin: 4px;
+}
+.card-181 {
+  background-color: blue;
+  max-width: 8px;
+  width: 12px;
+  height: 16px;
+  padding: 20px;
+  margin: 20px;
+}
+.card-182 {
+  background-color: blue;
+  max-width: 0px;
+  width: 8px;
+  height: 96px;
+  padding: 18px;
+  margin: 64px;
+}
+.card-183 {
+  background-color: green;
+  max-width: 0px;
+  width: 8px;
+  height: 64px;
+  padding: 18px;
+  margin: 18px;
+}
+.card-184 {
+  background-color: pink;
+  max-width: 24px;
+  width: 4px;
+  height: 0px;
+  padding: 96px;
+  margin: 16px;
+}
+.card-185 {
+  background-color: blue;
+  max-width: 0px;
+  width: 2px;
+  height: 4px;
+  padding: 32px;
+  margin: 24px;
+}
+.card-186 {
+  background-color: pink;
+  max-width: 16px;
+  width: 12px;
+  height: 64px;
+  padding: 18px;
+  margin: 8px;
+}
+.card-187 {
+  background-color: blue;
+  max-width: 12px;
+  width: 96px;
+  height: 96px;
+  padding: 96px;
+  margin: 18px;
+}
+.card-188 {
+  background-color: pink;
+  max-width: 8px;
+  width: 32px;
+  height: 32px;
+  padding: 6px;
+  margin: 4px;
+}
+.card-189 {
+  background-color: green;
+  max-width: 6px;
+  width: 12px;
+  height: 0px;
+  padding: 32px;
+  margin: 96px;
+}
+.card-190 {
+  background-color: green;
+  max-width: 0px;
+  width: 2px;
+  height: 16px;
+  padding: 16px;
+  margin: 18px;
+}
+.card-191 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 20px;
+  height: 8px;
+  padding: 64px;
+  margin: 64px;
+}
+.card-192 {
+  background-color: red;
+  max-width: 32px;
+  width: 32px;
+  height: 20px;
+  padding: 96px;
+  margin: 24px;
+}
+.card-193 {
+  background-color: red;
+  max-width: 18px;
+  width: 18px;
+  height: 0px;
+  padding: 16px;
+  margin: 18px;
+}
+.card-194 {
+  background-color: green;
+  max-width: 4px;
+  width: 8px;
+  height: 24px;
+  padding: 16px;
+  margin: 6px;
+}
+.card-195 {
+  background-color: pink;
+  max-width: 32px;
+  width: 12px;
+  height: 0px;
+  padding: 24px;
+  margin: 2px;
+}
+.card-196 {
+  background-color: pink;
+  max-width: 0px;
+  width: 24px;
+  height: 0px;
+  padding: 16px;
+  margin: 8px;
+}
+.card-197 {
+  background-color: pink;
+  max-width: 32px;
+  width: 64px;
+  height: 8px;
+  padding: 64px;
+  margin: 18px;
+}
+.card-198 {
+  background-color: blue;
+  max-width: 24px;
+  width: 16px;
+  height: 32px;
+  padding: 64px;
+  margin: 2px;
+}
+.card-199 {
+  background-color: red;
+  max-width: 64px;
+  width: 24px;
+  height: 32px;
+  padding: 12px;
+  margin: 96px;
+}
+.card-200 {
+  background-color: green;
+  max-width: 2px;
+  width: 4px;
+  height: 16px;
+  padding: 0px;
+  margin: 0px;
+}
+.card-201 {
+  background-color: red;
+  max-width: 4px;
+  width: 0px;
+  height: 0px;
+  padding: 24px;
+  margin: 8px;
+}
+.card-202 {
+  background-color: red;
+  max-width: 16px;
+  width: 2px;
+  height: 24px;
+  padding: 96px;
+  margin: 16px;
+}
+.card-203 {
+  background-color: red;
+  max-width: 6px;
+  width: 20px;
+  height: 8px;
+  padding: 32px;
+  margin: 20px;
+}
+.card-204 {
+  background-color: pink;
+  max-width: 12px;
+  width: 32px;
+  height: 12px;
+  padding: 8px;
+  margin: 96px;
+}
+.card-205 {
+  background-color: red;
+  max-width: 64px;
+  width: 64px;
+  height: 0px;
+  padding: 18px;
+  margin: 18px;
+}
+.card-206 {
+  background-color: green;
+  max-width: 16px;
+  width: 96px;
+  height: 96px;
+  padding: 4px;
+  margin: 64px;
+}
+.card-207 {
+  background-color: pink;
+  max-width: 20px;
+  width: 32px;
+  height: 2px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-208 {
+  background-color: red;
+  max-width: 8px;
+  width: 64px;
+  height: 0px;
+  padding: 96px;
+  margin: 0px;
+}
+.card-209 {
+  background-color: green;
+  max-width: 0px;
+  width: 0px;
+  height: 2px;
+  padding: 4px;
+  margin: 16px;
+}
+.card-210 {
+  background-color: blue;
+  max-width: 6px;
+  width: 8px;
+  height: 20px;
+  padding: 0px;
+  margin: 8px;
+}
+.card-211 {
+  background-color: green;
+  max-width: 12px;
+  width: 0px;
+  height: 64px;
+  padding: 20px;
+  margin: 18px;
+}
+.card-212 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 12px;
+  height: 20px;
+  padding: 20px;
+  margin: 0px;
+}
+.card-213 {
+  background-color: pink;
+  max-width: 96px;
+  width: 32px;
+  height: 64px;
+  padding: 18px;
+  margin: 2px;
+}
+.card-214 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 4px;
+  height: 8px;
+  padding: 8px;
+  margin: 32px;
+}
+.card-215 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 16px;
+  height: 16px;
+  padding: 96px;
+  margin: 2px;
+}
+.card-216 {
+  background-color: red;
+  max-width: 6px;
+  width: 32px;
+  height: 32px;
+  padding: 24px;
+  margin: 64px;
+}
+.card-217 {
+  background-color: blue;
+  max-width: 16px;
+  width: 64px;
+  height: 64px;
+  padding: 2px;
+  margin: 18px;
+}
+.card-218 {
+  background-color: blue;
+  max-width: 6px;
+  width: 18px;
+  height: 8px;
+  padding: 6px;
+  margin: 12px;
+}
+.card-219 {
+  background-color: red;
+  max-width: 12px;
+  width: 18px;
+  height: 96px;
+  padding: 12px;
+  margin: 12px;
+}
+.card-220 {
+  background-color: red;
+  max-width: 96px;
+  width: 20px;
+  height: 12px;
+  padding: 24px;
+  margin: 0px;
+}
+.card-221 {
+  background-color: blue;
+  max-width: 18px;
+  width: 64px;
+  height: 12px;
+  padding: 0px;
+  margin: 96px;
+}
+.card-222 {
+  background-color: green;
+  max-width: 12px;
+  width: 16px;
+  height: 64px;
+  padding: 8px;
+  margin: 2px;
+}
+.card-223 {
+  background-color: red;
+  max-width: 6px;
+  width: 24px;
+  height: 64px;
+  padding: 0px;
+  margin: 12px;
+}
+.card-224 {
+  background-color: blue;
+  max-width: 18px;
+  width: 12px;
+  height: 2px;
+  padding: 6px;
+  margin: 32px;
+}
+.card-225 {
+  background-color: pink;
+  max-width: 0px;
+  width: 20px;
+  height: 0px;
+  padding: 96px;
+  margin: 0px;
+}
+.card-226 {
+  background-color: pink;
+  max-width: 32px;
+  width: 2px;
+  height: 12px;
+  padding: 2px;
+  margin: 96px;
+}
+.card-227 {
+  background-color: red;
+  max-width: 2px;
+  width: 6px;
+  height: 8px;
+  padding: 18px;
+  margin: 6px;
+}
+.card-228 {
+  background-color: red;
+  max-width: 32px;
+  width: 2px;
+  height: 32px;
+  padding: 24px;
+  margin: 24px;
+}
+.card-229 {
+  background-color: blue;
+  max-width: 96px;
+  width: 8px;
+  height: 64px;
+  padding: 96px;
+  margin: 2px;
+}
+.card-230 {
+  background-color: green;
+  max-width: 24px;
+  width: 4px;
+  height: 96px;
+  padding: 32px;
+  margin: 4px;
+}
+.card-231 {
+  background-color: blue;
+  max-width: 8px;
+  width: 0px;
+  height: 20px;
+  padding: 96px;
+  margin: 20px;
+}
+.card-232 {
+  background-color: pink;
+  max-width: 96px;
+  width: 0px;
+  height: 20px;
+  padding: 32px;
+  margin: 64px;
+}
+.card-233 {
+  background-color: blue;
+  max-width: 6px;
+  width: 16px;
+  height: 12px;
+  padding: 64px;
+  margin: 8px;
+}
+.card-234 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 96px;
+  height: 96px;
+  padding: 20px;
+  margin: 12px;
+}
+.card-235 {
+  background-color: pink;
+  max-width: 64px;
+  width: 20px;
+  height: 96px;
+  padding: 16px;
+  margin: 6px;
+}
+.card-236 {
+  background-color: pink;
+  max-width: 18px;
+  width: 12px;
+  height: 2px;
+  padding: 18px;
+  margin: 0px;
+}
+.card-237 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 96px;
+  height: 18px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-238 {
+  background-color: blue;
+  max-width: 24px;
+  width: 32px;
+  height: 8px;
+  padding: 2px;
+  margin: 16px;
+}
+.card-239 {
+  background-color: red;
+  max-width: 64px;
+  width: 64px;
+  height: 64px;
+  padding: 2px;
+  margin: 16px;
+}
+.card-240 {
+  background-color: pink;
+  max-width: 16px;
+  width: 96px;
+  height: 32px;
+  padding: 8px;
+  margin: 32px;
+}
+.card-241 {
+  background-color: green;
+  max-width: 96px;
+  width: 2px;
+  height: 96px;
+  padding: 8px;
+  margin: 2px;
+}
+.card-242 {
+  background-color: pink;
+  max-width: 20px;
+  width: 96px;
+  height: 96px;
+  padding: 32px;
+  margin: 64px;
+}
+.card-243 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 8px;
+  height: 0px;
+  padding: 8px;
+  margin: 18px;
+}
+.card-244 {
+  background-color: pink;
+  max-width: 6px;
+  width: 0px;
+  height: 18px;
+  padding: 12px;
+  margin: 0px;
+}
+.card-245 {
+  background-color: red;
+  max-width: 16px;
+  width: 0px;
+  height: 64px;
+  padding: 4px;
+  margin: 96px;
+}
+.card-246 {
+  background-color: pink;
+  max-width: 16px;
+  width: 24px;
+  height: 2px;
+  padding: 16px;
+  margin: 6px;
+}
+.card-247 {
+  background-color: pink;
+  max-width: 20px;
+  width: 20px;
+  height: 96px;
+  padding: 18px;
+  margin: 2px;
+}
+.card-248 {
+  background-color: pink;
+  max-width: 0px;
+  width: 96px;
+  height: 64px;
+  padding: 24px;
+  margin: 16px;
+}
+.card-249 {
+  background-color: green;
+  max-width: 6px;
+  width: 20px;
+  height: 4px;
+  padding: 18px;
+  margin: 24px;
+}
+.card-250 {
+  background-color: red;
+  max-width: 4px;
+  width: 64px;
+  height: 20px;
+  padding: 8px;
+  margin: 4px;
+}
+.card-251 {
+  background-color: green;
+  max-width: 20px;
+  width: 6px;
+  height: 96px;
+  padding: 18px;
+  margin: 32px;
+}
+.card-252 {
+  background-color: blue;
+  max-width: 4px;
+  width: 12px;
+  height: 4px;
+  padding: 6px;
+  margin: 0px;
+}
+.card-253 {
+  background-color: green;
+  max-width: 20px;
+  width: 96px;
+  height: 2px;
+  padding: 4px;
+  margin: 8px;
+}
+.card-254 {
+  background-color: green;
+  max-width: 6px;
+  width: 64px;
+  height: 0px;
+  padding: 8px;
+  margin: 64px;
+}
+.card-255 {
+  background-color: blue;
+  max-width: 12px;
+  width: 96px;
+  height: 32px;
+  padding: 12px;
+  margin: 8px;
+}
+.card-256 {
+  background-color: red;
+  max-width: 16px;
+  width: 6px;
+  height: 16px;
+  padding: 8px;
+  margin: 32px;
+}
+.card-257 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 6px;
+  height: 12px;
+  padding: 96px;
+  margin: 8px;
+}
+.card-258 {
+  background-color: red;
+  max-width: 2px;
+  width: 0px;
+  height: 8px;
+  padding: 4px;
+  margin: 6px;
+}
+.card-259 {
+  background-color: green;
+  max-width: 32px;
+  width: 4px;
+  height: 96px;
+  padding: 8px;
+  margin: 0px;
+}
+.card-260 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 96px;
+  height: 16px;
+  padding: 0px;
+  margin: 24px;
+}
+.card-261 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 12px;
+  height: 18px;
+  padding: 20px;
+  margin: 96px;
+}
+.card-262 {
+  background-color: red;
+  max-width: 24px;
+  width: 96px;
+  height: 12px;
+  padding: 24px;
+  margin: 0px;
+}
+.card-263 {
+  background-color: green;
+  max-width: 12px;
+  width: 4px;
+  height: 6px;
+  padding: 96px;
+  margin: 0px;
+}
+.card-264 {
+  background-color: pink;
+  max-width: 4px;
+  width: 20px;
+  height: 6px;
+  padding: 6px;
+  margin: 96px;
+}
+.card-265 {
+  background-color: green;
+  max-width: 16px;
+  width: 12px;
+  height: 0px;
+  padding: 16px;
+  margin: 32px;
+}
+.card-266 {
+  background-color: pink;
+  max-width: 2px;
+  width: 32px;
+  height: 20px;
+  padding: 16px;
+  margin: 12px;
+}
+.card-267 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 0px;
+  height: 96px;
+  padding: 2px;
+  margin: 16px;
+}
+.card-268 {
+  background-color: pink;
+  max-width: 32px;
+  width: 8px;
+  height: 6px;
+  padding: 32px;
+  margin: 24px;
+}
+.card-269 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 64px;
+  height: 18px;
+  padding: 12px;
+  margin: 64px;
+}
+.card-270 {
+  background-color: green;
+  max-width: 18px;
+  width: 2px;
+  height: 0px;
+  padding: 16px;
+  margin: 96px;
+}
+.card-271 {
+  background-color: blue;
+  max-width: 32px;
+  width: 4px;
+  height: 64px;
+  padding: 0px;
+  margin: 2px;
+}
+.card-272 {
+  background-color: yellow;
+  max-width: 12px;
+  width: 20px;
+  height: 32px;
+  padding: 96px;
+  margin: 32px;
+}
+.card-273 {
+  background-color: pink;
+  max-width: 24px;
+  width: 12px;
+  height: 32px;
+  padding: 32px;
+  margin: 4px;
+}
+.card-274 {
+  background-color: red;
+  max-width: 16px;
+  width: 24px;
+  height: 18px;
+  padding: 8px;
+  margin: 2px;
+}
+.card-275 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 0px;
+  height: 24px;
+  padding: 96px;
+  margin: 24px;
+}
+.card-276 {
+  background-color: pink;
+  max-width: 24px;
+  width: 20px;
+  height: 0px;
+  padding: 18px;
+  margin: 96px;
+}
+.card-277 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 2px;
+  height: 64px;
+  padding: 18px;
+  margin: 64px;
+}
+.card-278 {
+  background-color: green;
+  max-width: 18px;
+  width: 24px;
+  height: 18px;
+  padding: 18px;
+  margin: 24px;
+}
+.card-279 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 64px;
+  height: 12px;
+  padding: 20px;
+  margin: 24px;
+}
+.card-280 {
+  background-color: pink;
+  max-width: 20px;
+  width: 64px;
+  height: 32px;
+  padding: 64px;
+  margin: 20px;
+}
+.card-281 {
+  background-color: pink;
+  max-width: 0px;
+  width: 96px;
+  height: 32px;
+  padding: 4px;
+  margin: 16px;
+}
+.card-282 {
+  background-color: green;
+  max-width: 96px;
+  width: 12px;
+  height: 6px;
+  padding: 4px;
+  margin: 24px;
+}
+.card-283 {
+  background-color: blue;
+  max-width: 12px;
+  width: 0px;
+  height: 96px;
+  padding: 16px;
+  margin: 20px;
+}
+.card-284 {
+  background-color: pink;
+  max-width: 20px;
+  width: 64px;
+  height: 20px;
+  padding: 18px;
+  margin: 24px;
+}
+.card-285 {
+  background-color: red;
+  max-width: 64px;
+  width: 64px;
+  height: 64px;
+  padding: 16px;
+  margin: 96px;
+}
+.card-286 {
+  background-color: pink;
+  max-width: 24px;
+  width: 96px;
+  height: 16px;
+  padding: 6px;
+  margin: 0px;
+}
+.card-287 {
+  background-color: yellow;
+  max-width: 64px;
+  width: 18px;
+  height: 6px;
+  padding: 16px;
+  margin: 12px;
+}
+.card-288 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 96px;
+  height: 0px;
+  padding: 24px;
+  margin: 4px;
+}
+.card-289 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 32px;
+  height: 0px;
+  padding: 32px;
+  margin: 24px;
+}
+.card-290 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 2px;
+  height: 6px;
+  padding: 2px;
+  margin: 4px;
+}
+.card-291 {
+  background-color: green;
+  max-width: 18px;
+  width: 16px;
+  height: 6px;
+  padding: 4px;
+  margin: 0px;
+}
+.card-292 {
+  background-color: red;
+  max-width: 2px;
+  width: 32px;
+  height: 64px;
+  padding: 32px;
+  margin: 24px;
+}
+.card-293 {
+  background-color: pink;
+  max-width: 4px;
+  width: 2px;
+  height: 12px;
+  padding: 0px;
+  margin: 16px;
+}
+.card-294 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 32px;
+  height: 0px;
+  padding: 24px;
+  margin: 96px;
+}
+.card-295 {
+  background-color: pink;
+  max-width: 12px;
+  width: 32px;
+  height: 4px;
+  padding: 6px;
+  margin: 20px;
+}
+.card-296 {
+  background-color: pink;
+  max-width: 32px;
+  width: 96px;
+  height: 96px;
+  padding: 6px;
+  margin: 4px;
+}
+.card-297 {
+  background-color: green;
+  max-width: 16px;
+  width: 16px;
+  height: 0px;
+  padding: 18px;
+  margin: 24px;
+}
+.card-298 {
+  background-color: blue;
+  max-width: 64px;
+  width: 32px;
+  height: 6px;
+  padding: 18px;
+  margin: 8px;
+}
+.card-299 {
+  background-color: blue;
+  max-width: 64px;
+  width: 24px;
+  height: 0px;
+  padding: 8px;
+  margin: 64px;
+}
+.card-300 {
+  background-color: red;
+  max-width: 6px;
+  width: 6px;
+  height: 2px;
+  padding: 6px;
+  margin: 2px;
+}
+.card-301 {
+  background-color: green;
+  max-width: 0px;
+  width: 16px;
+  height: 0px;
+  padding: 96px;
+  margin: 16px;
+}
+.card-302 {
+  background-color: pink;
+  max-width: 20px;
+  width: 0px;
+  height: 18px;
+  padding: 12px;
+  margin: 2px;
+}
+.card-303 {
+  background-color: blue;
+  max-width: 96px;
+  width: 20px;
+  height: 24px;
+  padding: 2px;
+  margin: 64px;
+}
+.card-304 {
+  background-color: green;
+  max-width: 16px;
+  width: 16px;
+  height: 6px;
+  padding: 8px;
+  margin: 0px;
+}
+.card-305 {
+  background-color: pink;
+  max-width: 6px;
+  width: 64px;
+  height: 64px;
+  padding: 0px;
+  margin: 8px;
+}
+.card-306 {
+  background-color: green;
+  max-width: 6px;
+  width: 4px;
+  height: 8px;
+  padding: 2px;
+  margin: 96px;
+}
+.card-307 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 12px;
+  height: 12px;
+  padding: 18px;
+  margin: 16px;
+}
+.card-308 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 64px;
+  height: 20px;
+  padding: 64px;
+  margin: 6px;
+}
+.card-309 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 12px;
+  height: 12px;
+  padding: 12px;
+  margin: 0px;
+}
+.card-310 {
+  background-color: red;
+  max-width: 4px;
+  width: 32px;
+  height: 32px;
+  padding: 16px;
+  margin: 4px;
+}
+.card-311 {
+  background-color: yellow;
+  max-width: 2px;
+  width: 2px;
+  height: 16px;
+  padding: 24px;
+  margin: 18px;
+}
+.card-312 {
+  background-color: red;
+  max-width: 16px;
+  width: 96px;
+  height: 8px;
+  padding: 16px;
+  margin: 0px;
+}
+.card-313 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 32px;
+  height: 20px;
+  padding: 96px;
+  margin: 8px;
+}
+.card-314 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 24px;
+  height: 0px;
+  padding: 24px;
+  margin: 24px;
+}
+.card-315 {
+  background-color: red;
+  max-width: 2px;
+  width: 16px;
+  height: 12px;
+  padding: 96px;
+  margin: 12px;
+}
+.card-316 {
+  background-color: pink;
+  max-width: 16px;
+  width: 16px;
+  height: 16px;
+  padding: 16px;
+  margin: 96px;
+}
+.card-317 {
+  background-color: green;
+  max-width: 4px;
+  width: 6px;
+  height: 18px;
+  padding: 16px;
+  margin: 2px;
+}
+.card-318 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 2px;
+  height: 24px;
+  padding: 24px;
+  margin: 32px;
+}
+.card-319 {
+  background-color: blue;
+  max-width: 12px;
+  width: 12px;
+  height: 4px;
+  padding: 12px;
+  margin: 12px;
+}
+.card-320 {
+  background-color: blue;
+  max-width: 20px;
+  width: 32px;
+  height: 4px;
+  padding: 0px;
+  margin: 18px;
+}
+.card-321 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 32px;
+  height: 2px;
+  padding: 4px;
+  margin: 20px;
+}
+.card-322 {
+  background-color: blue;
+  max-width: 16px;
+  width: 96px;
+  height: 6px;
+  padding: 6px;
+  margin: 6px;
+}
+.card-323 {
+  background-color: red;
+  max-width: 18px;
+  width: 16px;
+  height: 32px;
+  padding: 4px;
+  margin: 12px;
+}
+.card-324 {
+  background-color: red;
+  max-width: 0px;
+  width: 18px;
+  height: 6px;
+  padding: 64px;
+  margin: 6px;
+}
+.card-325 {
+  background-color: green;
+  max-width: 16px;
+  width: 32px;
+  height: 2px;
+  padding: 18px;
+  margin: 12px;
+}
+.card-326 {
+  background-color: red;
+  max-width: 6px;
+  width: 4px;
+  height: 6px;
+  padding: 2px;
+  margin: 96px;
+}
+.card-327 {
+  background-color: pink;
+  max-width: 4px;
+  width: 2px;
+  height: 20px;
+  padding: 24px;
+  margin: 0px;
+}
+.card-328 {
+  background-color: green;
+  max-width: 4px;
+  width: 0px;
+  height: 96px;
+  padding: 0px;
+  margin: 16px;
+}
+.card-329 {
+  background-color: blue;
+  max-width: 20px;
+  width: 6px;
+  height: 20px;
+  padding: 2px;
+  margin: 20px;
+}
+.card-330 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 12px;
+  height: 24px;
+  padding: 20px;
+  margin: 8px;
+}
+.card-331 {
+  background-color: blue;
+  max-width: 12px;
+  width: 96px;
+  height: 0px;
+  padding: 0px;
+  margin: 16px;
+}
+.card-332 {
+  background-color: red;
+  max-width: 96px;
+  width: 6px;
+  height: 2px;
+  padding: 96px;
+  margin: 20px;
+}
+.card-333 {
+  background-color: blue;
+  max-width: 4px;
+  width: 20px;
+  height: 20px;
+  padding: 6px;
+  margin: 4px;
+}
+.card-334 {
+  background-color: red;
+  max-width: 64px;
+  width: 4px;
+  height: 64px;
+  padding: 24px;
+  margin: 4px;
+}
+.card-335 {
+  background-color: green;
+  max-width: 32px;
+  width: 96px;
+  height: 12px;
+  padding: 0px;
+  margin: 64px;
+}
+.card-336 {
+  background-color: red;
+  max-width: 8px;
+  width: 4px;
+  height: 6px;
+  padding: 96px;
+  margin: 12px;
+}
+.card-337 {
+  background-color: red;
+  max-width: 64px;
+  width: 96px;
+  height: 4px;
+  padding: 20px;
+  margin: 2px;
+}
+.card-338 {
+  background-color: blue;
+  max-width: 0px;
+  width: 64px;
+  height: 2px;
+  padding: 4px;
+  margin: 20px;
+}
+.card-339 {
+  background-color: blue;
+  max-width: 8px;
+  width: 8px;
+  height: 0px;
+  padding: 2px;
+  margin: 18px;
+}
+.card-340 {
+  background-color: green;
+  max-width: 16px;
+  width: 4px;
+  height: 24px;
+  padding: 16px;
+  margin: 24px;
+}
+.card-341 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 4px;
+  height: 24px;
+  padding: 20px;
+  margin: 16px;
+}
+.card-342 {
+  background-color: pink;
+  max-width: 18px;
+  width: 8px;
+  height: 18px;
+  padding: 64px;
+  margin: 64px;
+}
+.card-343 {
+  background-color: red;
+  max-width: 8px;
+  width: 64px;
+  height: 20px;
+  padding: 4px;
+  margin: 18px;
+}
+.card-344 {
+  background-color: red;
+  max-width: 12px;
+  width: 4px;
+  height: 16px;
+  padding: 12px;
+  margin: 16px;
+}
+.card-345 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 64px;
+  height: 2px;
+  padding: 20px;
+  margin: 4px;
+}
+.card-346 {
+  background-color: pink;
+  max-width: 0px;
+  width: 12px;
+  height: 0px;
+  padding: 0px;
+  margin: 4px;
+}
+.card-347 {
+  background-color: green;
+  max-width: 24px;
+  width: 18px;
+  height: 24px;
+  padding: 20px;
+  margin: 6px;
+}
+.card-348 {
+  background-color: pink;
+  max-width: 16px;
+  width: 8px;
+  height: 2px;
+  padding: 64px;
+  margin: 96px;
+}
+.card-349 {
+  background-color: red;
+  max-width: 8px;
+  width: 16px;
+  height: 16px;
+  padding: 6px;
+  margin: 64px;
+}
+.card-350 {
+  background-color: blue;
+  max-width: 20px;
+  width: 6px;
+  height: 2px;
+  padding: 32px;
+  margin: 6px;
+}
+.card-351 {
+  background-color: pink;
+  max-width: 96px;
+  width: 24px;
+  height: 4px;
+  padding: 20px;
+  margin: 18px;
+}
+.card-352 {
+  background-color: pink;
+  max-width: 24px;
+  width: 64px;
+  height: 2px;
+  padding: 64px;
+  margin: 2px;
+}
+.card-353 {
+  background-color: green;
+  max-width: 18px;
+  width: 18px;
+  height: 6px;
+  padding: 32px;
+  margin: 4px;
+}
+.card-354 {
+  background-color: blue;
+  max-width: 16px;
+  width: 20px;
+  height: 2px;
+  padding: 24px;
+  margin: 18px;
+}
+.card-355 {
+  background-color: yellow;
+  max-width: 2px;
+  width: 2px;
+  height: 18px;
+  padding: 24px;
+  margin: 96px;
+}
+.card-356 {
+  background-color: red;
+  max-width: 20px;
+  width: 96px;
+  height: 32px;
+  padding: 20px;
+  margin: 16px;
+}
+.card-357 {
+  background-color: pink;
+  max-width: 2px;
+  width: 0px;
+  height: 8px;
+  padding: 0px;
+  margin: 32px;
+}
+.card-358 {
+  background-color: green;
+  max-width: 16px;
+  width: 32px;
+  height: 32px;
+  padding: 12px;
+  margin: 64px;
+}
+.card-359 {
+  background-color: red;
+  max-width: 64px;
+  width: 6px;
+  height: 0px;
+  padding: 18px;
+  margin: 6px;
+}
+.card-360 {
+  background-color: blue;
+  max-width: 6px;
+  width: 8px;
+  height: 20px;
+  padding: 64px;
+  margin: 2px;
+}
+.card-361 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 24px;
+  height: 16px;
+  padding: 24px;
+  margin: 64px;
+}
+.card-362 {
+  background-color: blue;
+  max-width: 24px;
+  width: 4px;
+  height: 20px;
+  padding: 18px;
+  margin: 64px;
+}
+.card-363 {
+  background-color: blue;
+  max-width: 16px;
+  width: 0px;
+  height: 16px;
+  padding: 12px;
+  margin: 8px;
+}
+.card-364 {
+  background-color: green;
+  max-width: 0px;
+  width: 18px;
+  height: 64px;
+  padding: 4px;
+  margin: 24px;
+}
+.card-365 {
+  background-color: yellow;
+  max-width: 2px;
+  width: 8px;
+  height: 12px;
+  padding: 6px;
+  margin: 64px;
+}
+.card-366 {
+  background-color: blue;
+  max-width: 2px;
+  width: 4px;
+  height: 8px;
+  padding: 20px;
+  margin: 96px;
+}
+.card-367 {
+  background-color: pink;
+  max-width: 64px;
+  width: 12px;
+  height: 16px;
+  padding: 6px;
+  margin: 0px;
+}
+.card-368 {
+  background-color: green;
+  max-width: 24px;
+  width: 18px;
+  height: 2px;
+  padding: 64px;
+  margin: 96px;
+}
+.card-369 {
+  background-color: green;
+  max-width: 0px;
+  width: 64px;
+  height: 18px;
+  padding: 20px;
+  margin: 2px;
+}
+.card-370 {
+  background-color: green;
+  max-width: 4px;
+  width: 32px;
+  height: 96px;
+  padding: 96px;
+  margin: 2px;
+}
+.card-371 {
+  background-color: red;
+  max-width: 8px;
+  width: 12px;
+  height: 4px;
+  padding: 16px;
+  margin: 4px;
+}
+.card-372 {
+  background-color: blue;
+  max-width: 96px;
+  width: 8px;
+  height: 6px;
+  padding: 8px;
+  margin: 16px;
+}
+.card-373 {
+  background-color: red;
+  max-width: 6px;
+  width: 96px;
+  height: 24px;
+  padding: 12px;
+  margin: 16px;
+}
+.card-374 {
+  background-color: red;
+  max-width: 8px;
+  width: 2px;
+  height: 0px;
+  padding: 32px;
+  margin: 6px;
+}
+.card-375 {
+  background-color: red;
+  max-width: 64px;
+  width: 12px;
+  height: 32px;
+  padding: 32px;
+  margin: 2px;
+}
+.card-376 {
+  background-color: red;
+  max-width: 64px;
+  width: 0px;
+  height: 96px;
+  padding: 32px;
+  margin: 8px;
+}
+.card-377 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 18px;
+  height: 16px;
+  padding: 32px;
+  margin: 20px;
+}
+.card-378 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 0px;
+  height: 20px;
+  padding: 16px;
+  margin: 16px;
+}
+.card-379 {
+  background-color: blue;
+  max-width: 16px;
+  width: 4px;
+  height: 6px;
+  padding: 8px;
+  margin: 24px;
+}
+.card-380 {
+  background-color: red;
+  max-width: 96px;
+  width: 8px;
+  height: 20px;
+  padding: 0px;
+  margin: 24px;
+}
+.card-381 {
+  background-color: blue;
+  max-width: 24px;
+  width: 32px;
+  height: 4px;
+  padding: 18px;
+  margin: 12px;
+}
+.card-382 {
+  background-color: blue;
+  max-width: 4px;
+  width: 20px;
+  height: 24px;
+  padding: 18px;
+  margin: 16px;
+}
+.card-383 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 4px;
+  height: 64px;
+  padding: 0px;
+  margin: 12px;
+}
+.card-384 {
+  background-color: pink;
+  max-width: 8px;
+  width: 20px;
+  height: 0px;
+  padding: 0px;
+  margin: 24px;
+}
+.card-385 {
+  background-color: red;
+  max-width: 24px;
+  width: 18px;
+  height: 96px;
+  padding: 18px;
+  margin: 6px;
+}
+.card-386 {
+  background-color: blue;
+  max-width: 4px;
+  width: 4px;
+  height: 64px;
+  padding: 32px;
+  margin: 4px;
+}
+.card-387 {
+  background-color: blue;
+  max-width: 32px;
+  width: 24px;
+  height: 2px;
+  padding: 64px;
+  margin: 32px;
+}
+.card-388 {
+  background-color: red;
+  max-width: 32px;
+  width: 18px;
+  height: 64px;
+  padding: 64px;
+  margin: 32px;
+}
+.card-389 {
+  background-color: green;
+  max-width: 96px;
+  width: 24px;
+  height: 6px;
+  padding: 2px;
+  margin: 6px;
+}
+.card-390 {
+  background-color: blue;
+  max-width: 12px;
+  width: 6px;
+  height: 18px;
+  padding: 16px;
+  margin: 2px;
+}
+.card-391 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 2px;
+  height: 2px;
+  padding: 12px;
+  margin: 8px;
+}
+.card-392 {
+  background-color: green;
+  max-width: 2px;
+  width: 16px;
+  height: 4px;
+  padding: 64px;
+  margin: 12px;
+}
+.card-393 {
+  background-color: red;
+  max-width: 18px;
+  width: 12px;
+  height: 64px;
+  padding: 8px;
+  margin: 12px;
+}
+.card-394 {
+  background-color: pink;
+  max-width: 0px;
+  width: 24px;
+  height: 24px;
+  padding: 4px;
+  margin: 18px;
+}
+.card-395 {
+  background-color: yellow;
+  max-width: 2px;
+  width: 4px;
+  height: 18px;
+  padding: 24px;
+  margin: 12px;
+}
+.card-396 {
+  background-color: pink;
+  max-width: 8px;
+  width: 0px;
+  height: 0px;
+  padding: 32px;
+  margin: 20px;
+}
+.card-397 {
+  background-color: green;
+  max-width: 64px;
+  width: 64px;
+  height: 6px;
+  padding: 18px;
+  margin: 18px;
+}
+.card-398 {
+  background-color: green;
+  max-width: 2px;
+  width: 32px;
+  height: 0px;
+  padding: 2px;
+  margin: 20px;
+}
+.card-399 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 18px;
+  height: 18px;
+  padding: 16px;
+  margin: 96px;
+}
+.card-400 {
+  background-color: blue;
+  max-width: 2px;
+  width: 20px;
+  height: 6px;
+  padding: 8px;
+  margin: 20px;
+}
+.card-401 {
+  background-color: blue;
+  max-width: 6px;
+  width: 4px;
+  height: 96px;
+  padding: 96px;
+  margin: 20px;
+}
+.card-402 {
+  background-color: pink;
+  max-width: 20px;
+  width: 96px;
+  height: 16px;
+  padding: 12px;
+  margin: 24px;
+}
+.card-403 {
+  background-color: green;
+  max-width: 12px;
+  width: 24px;
+  height: 96px;
+  padding: 64px;
+  margin: 16px;
+}
+.card-404 {
+  background-color: red;
+  max-width: 4px;
+  width: 18px;
+  height: 8px;
+  padding: 12px;
+  margin: 8px;
+}
+.card-405 {
+  background-color: blue;
+  max-width: 8px;
+  width: 32px;
+  height: 8px;
+  padding: 16px;
+  margin: 96px;
+}
+.card-406 {
+  background-color: green;
+  max-width: 16px;
+  width: 8px;
+  height: 20px;
+  padding: 6px;
+  margin: 32px;
+}
+.card-407 {
+  background-color: blue;
+  max-width: 64px;
+  width: 12px;
+  height: 64px;
+  padding: 8px;
+  margin: 20px;
+}
+.card-408 {
+  background-color: pink;
+  max-width: 64px;
+  width: 32px;
+  height: 16px;
+  padding: 96px;
+  margin: 8px;
+}
+.card-409 {
+  background-color: green;
+  max-width: 16px;
+  width: 0px;
+  height: 0px;
+  padding: 24px;
+  margin: 32px;
+}
+.card-410 {
+  background-color: red;
+  max-width: 24px;
+  width: 2px;
+  height: 0px;
+  padding: 24px;
+  margin: 18px;
+}
+.card-411 {
+  background-color: green;
+  max-width: 96px;
+  width: 6px;
+  height: 18px;
+  padding: 6px;
+  margin: 12px;
+}
+.card-412 {
+  background-color: red;
+  max-width: 8px;
+  width: 12px;
+  height: 0px;
+  padding: 32px;
+  margin: 32px;
+}
+.card-413 {
+  background-color: blue;
+  max-width: 4px;
+  width: 4px;
+  height: 4px;
+  padding: 2px;
+  margin: 12px;
+}
+.card-414 {
+  background-color: pink;
+  max-width: 8px;
+  width: 8px;
+  height: 2px;
+  padding: 4px;
+  margin: 18px;
+}
+.card-415 {
+  background-color: pink;
+  max-width: 6px;
+  width: 18px;
+  height: 64px;
+  padding: 16px;
+  margin: 16px;
+}
+.card-416 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 12px;
+  height: 24px;
+  padding: 2px;
+  margin: 24px;
+}
+.card-417 {
+  background-color: red;
+  max-width: 4px;
+  width: 32px;
+  height: 12px;
+  padding: 24px;
+  margin: 32px;
+}
+.card-418 {
+  background-color: pink;
+  max-width: 6px;
+  width: 18px;
+  height: 12px;
+  padding: 24px;
+  margin: 16px;
+}
+.card-419 {
+  background-color: green;
+  max-width: 64px;
+  width: 4px;
+  height: 20px;
+  padding: 6px;
+  margin: 64px;
+}
+.card-420 {
+  background-color: green;
+  max-width: 24px;
+  width: 8px;
+  height: 2px;
+  padding: 0px;
+  margin: 12px;
+}
+.card-421 {
+  background-color: blue;
+  max-width: 96px;
+  width: 0px;
+  height: 4px;
+  padding: 8px;
+  margin: 24px;
+}
+.card-422 {
+  background-color: green;
+  max-width: 8px;
+  width: 96px;
+  height: 2px;
+  padding: 16px;
+  margin: 64px;
+}
+.card-423 {
+  background-color: green;
+  max-width: 6px;
+  width: 0px;
+  height: 64px;
+  padding: 96px;
+  margin: 12px;
+}
+.card-424 {
+  background-color: red;
+  max-width: 6px;
+  width: 2px;
+  height: 24px;
+  padding: 32px;
+  margin: 12px;
+}
+.card-425 {
+  background-color: pink;
+  max-width: 0px;
+  width: 64px;
+  height: 24px;
+  padding: 2px;
+  margin: 8px;
+}
+.card-426 {
+  background-color: pink;
+  max-width: 12px;
+  width: 24px;
+  height: 2px;
+  padding: 8px;
+  margin: 6px;
+}
+.card-427 {
+  background-color: green;
+  max-width: 18px;
+  width: 96px;
+  height: 18px;
+  padding: 2px;
+  margin: 20px;
+}
+.card-428 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 0px;
+  height: 8px;
+  padding: 0px;
+  margin: 4px;
+}
+.card-429 {
+  background-color: red;
+  max-width: 64px;
+  width: 24px;
+  height: 18px;
+  padding: 2px;
+  margin: 12px;
+}
+.card-430 {
+  background-color: green;
+  max-width: 12px;
+  width: 16px;
+  height: 0px;
+  padding: 20px;
+  margin: 4px;
+}
+.card-431 {
+  background-color: green;
+  max-width: 18px;
+  width: 24px;
+  height: 20px;
+  padding: 20px;
+  margin: 96px;
+}
+.card-432 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 64px;
+  height: 0px;
+  padding: 96px;
+  margin: 0px;
+}
+.card-433 {
+  background-color: red;
+  max-width: 64px;
+  width: 64px;
+  height: 96px;
+  padding: 64px;
+  margin: 6px;
+}
+.card-434 {
+  background-color: blue;
+  max-width: 18px;
+  width: 64px;
+  height: 64px;
+  padding: 0px;
+  margin: 12px;
+}
+.card-435 {
+  background-color: green;
+  max-width: 8px;
+  width: 8px;
+  height: 96px;
+  padding: 96px;
+  margin: 24px;
+}
+.card-436 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 32px;
+  height: 96px;
+  padding: 20px;
+  margin: 16px;
+}
+.card-437 {
+  background-color: green;
+  max-width: 16px;
+  width: 18px;
+  height: 2px;
+  padding: 4px;
+  margin: 12px;
+}
+.card-438 {
+  background-color: red;
+  max-width: 6px;
+  width: 12px;
+  height: 20px;
+  padding: 8px;
+  margin: 8px;
+}
+.card-439 {
+  background-color: blue;
+  max-width: 32px;
+  width: 4px;
+  height: 8px;
+  padding: 0px;
+  margin: 24px;
+}
+.card-440 {
+  background-color: red;
+  max-width: 0px;
+  width: 18px;
+  height: 4px;
+  padding: 20px;
+  margin: 12px;
+}
+.card-441 {
+  background-color: green;
+  max-width: 96px;
+  width: 20px;
+  height: 0px;
+  padding: 18px;
+  margin: 0px;
+}
+.card-442 {
+  background-color: red;
+  max-width: 20px;
+  width: 24px;
+  height: 16px;
+  padding: 12px;
+  margin: 4px;
+}
+.card-443 {
+  background-color: pink;
+  max-width: 0px;
+  width: 96px;
+  height: 2px;
+  padding: 64px;
+  margin: 8px;
+}
+.card-444 {
+  background-color: red;
+  max-width: 0px;
+  width: 96px;
+  height: 16px;
+  padding: 2px;
+  margin: 2px;
+}
+.card-445 {
+  background-color: pink;
+  max-width: 4px;
+  width: 32px;
+  height: 64px;
+  padding: 18px;
+  margin: 64px;
+}
+.card-446 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 4px;
+  height: 96px;
+  padding: 18px;
+  margin: 4px;
+}
+.card-447 {
+  background-color: pink;
+  max-width: 8px;
+  width: 2px;
+  height: 6px;
+  padding: 32px;
+  margin: 12px;
+}
+.card-448 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 16px;
+  height: 16px;
+  padding: 4px;
+  margin: 20px;
+}
+.card-449 {
+  background-color: red;
+  max-width: 18px;
+  width: 0px;
+  height: 6px;
+  padding: 16px;
+  margin: 6px;
+}
+.card-450 {
+  background-color: blue;
+  max-width: 0px;
+  width: 12px;
+  height: 4px;
+  padding: 6px;
+  margin: 64px;
+}
+.card-451 {
+  background-color: green;
+  max-width: 24px;
+  width: 4px;
+  height: 32px;
+  padding: 24px;
+  margin: 4px;
+}
+.card-452 {
+  background-color: blue;
+  max-width: 96px;
+  width: 24px;
+  height: 20px;
+  padding: 24px;
+  margin: 96px;
+}
+.card-453 {
+  background-color: blue;
+  max-width: 24px;
+  width: 32px;
+  height: 4px;
+  padding: 16px;
+  margin: 12px;
+}
+.card-454 {
+  background-color: green;
+  max-width: 64px;
+  width: 32px;
+  height: 16px;
+  padding: 8px;
+  margin: 64px;
+}
+.card-455 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 2px;
+  height: 96px;
+  padding: 64px;
+  margin: 32px;
+}
+.card-456 {
+  background-color: green;
+  max-width: 24px;
+  width: 96px;
+  height: 2px;
+  padding: 18px;
+  margin: 0px;
+}
+.card-457 {
+  background-color: pink;
+  max-width: 4px;
+  width: 2px;
+  height: 96px;
+  padding: 6px;
+  margin: 20px;
+}
+.card-458 {
+  background-color: blue;
+  max-width: 20px;
+  width: 24px;
+  height: 20px;
+  padding: 8px;
+  margin: 16px;
+}
+.card-459 {
+  background-color: pink;
+  max-width: 16px;
+  width: 0px;
+  height: 32px;
+  padding: 4px;
+  margin: 4px;
+}
+.card-460 {
+  background-color: red;
+  max-width: 64px;
+  width: 6px;
+  height: 32px;
+  padding: 16px;
+  margin: 18px;
+}
+.card-461 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 16px;
+  height: 32px;
+  padding: 0px;
+  margin: 24px;
+}
+.card-462 {
+  background-color: pink;
+  max-width: 96px;
+  width: 96px;
+  height: 6px;
+  padding: 4px;
+  margin: 18px;
+}
+.card-463 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 12px;
+  height: 4px;
+  padding: 8px;
+  margin: 18px;
+}
+.card-464 {
+  background-color: green;
+  max-width: 4px;
+  width: 0px;
+  height: 18px;
+  padding: 32px;
+  margin: 32px;
+}
+.card-465 {
+  background-color: blue;
+  max-width: 0px;
+  width: 18px;
+  height: 18px;
+  padding: 0px;
+  margin: 4px;
+}
+.card-466 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 20px;
+  height: 4px;
+  padding: 2px;
+  margin: 20px;
+}
+.card-467 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 0px;
+  height: 16px;
+  padding: 20px;
+  margin: 20px;
+}
+.card-468 {
+  background-color: blue;
+  max-width: 2px;
+  width: 8px;
+  height: 0px;
+  padding: 32px;
+  margin: 6px;
+}
+.card-469 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 64px;
+  height: 4px;
+  padding: 4px;
+  margin: 6px;
+}
+.card-470 {
+  background-color: pink;
+  max-width: 0px;
+  width: 4px;
+  height: 18px;
+  padding: 96px;
+  margin: 4px;
+}
+.card-471 {
+  background-color: green;
+  max-width: 6px;
+  width: 8px;
+  height: 0px;
+  padding: 4px;
+  margin: 12px;
+}
+.card-472 {
+  background-color: blue;
+  max-width: 96px;
+  width: 64px;
+  height: 18px;
+  padding: 32px;
+  margin: 96px;
+}
+.card-473 {
+  background-color: green;
+  max-width: 18px;
+  width: 18px;
+  height: 32px;
+  padding: 8px;
+  margin: 96px;
+}
+.card-474 {
+  background-color: blue;
+  max-width: 64px;
+  width: 64px;
+  height: 18px;
+  padding: 0px;
+  margin: 64px;
+}
+.card-475 {
+  background-color: green;
+  max-width: 8px;
+  width: 18px;
+  height: 4px;
+  padding: 24px;
+  margin: 4px;
+}
+.card-476 {
+  background-color: red;
+  max-width: 4px;
+  width: 18px;
+  height: 20px;
+  padding: 16px;
+  margin: 4px;
+}
+.card-477 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 96px;
+  height: 96px;
+  padding: 32px;
+  margin: 16px;
+}
+.card-478 {
+  background-color: red;
+  max-width: 8px;
+  width: 64px;
+  height: 20px;
+  padding: 6px;
+  margin: 24px;
+}
+.card-479 {
+  background-color: pink;
+  max-width: 2px;
+  width: 24px;
+  height: 24px;
+  padding: 32px;
+  margin: 24px;
+}
+.card-480 {
+  background-color: green;
+  max-width: 12px;
+  width: 0px;
+  height: 24px;
+  padding: 24px;
+  margin: 6px;
+}
+.card-481 {
+  background-color: blue;
+  max-width: 12px;
+  width: 8px;
+  height: 32px;
+  padding: 8px;
+  margin: 18px;
+}
+.card-482 {
+  background-color: pink;
+  max-width: 12px;
+  width: 8px;
+  height: 18px;
+  padding: 18px;
+  margin: 24px;
+}
+.card-483 {
+  background-color: red;
+  max-width: 12px;
+  width: 4px;
+  height: 24px;
+  padding: 2px;
+  margin: 0px;
+}
+.card-484 {
+  background-color: green;
+  max-width: 8px;
+  width: 20px;
+  height: 96px;
+  padding: 32px;
+  margin: 4px;
+}
+.card-485 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 16px;
+  height: 16px;
+  padding: 96px;
+  margin: 0px;
+}
+.card-486 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 32px;
+  height: 4px;
+  padding: 18px;
+  margin: 24px;
+}
+.card-487 {
+  background-color: green;
+  max-width: 96px;
+  width: 32px;
+  height: 96px;
+  padding: 64px;
+  margin: 20px;
+}
+.card-488 {
+  background-color: pink;
+  max-width: 32px;
+  width: 96px;
+  height: 6px;
+  padding: 16px;
+  margin: 8px;
+}
+.card-489 {
+  background-color: pink;
+  max-width: 32px;
+  width: 0px;
+  height: 24px;
+  padding: 96px;
+  margin: 18px;
+}
+.card-490 {
+  background-color: red;
+  max-width: 18px;
+  width: 24px;
+  height: 8px;
+  padding: 18px;
+  margin: 16px;
+}
+.card-491 {
+  background-color: red;
+  max-width: 2px;
+  width: 64px;
+  height: 96px;
+  padding: 6px;
+  margin: 32px;
+}
+.card-492 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 96px;
+  height: 6px;
+  padding: 4px;
+  margin: 8px;
+}
+.card-493 {
+  background-color: blue;
+  max-width: 8px;
+  width: 16px;
+  height: 18px;
+  padding: 6px;
+  margin: 24px;
+}
+.card-494 {
+  background-color: green;
+  max-width: 0px;
+  width: 20px;
+  height: 4px;
+  padding: 96px;
+  margin: 64px;
+}
+.card-495 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 96px;
+  height: 96px;
+  padding: 32px;
+  margin: 12px;
+}
+.card-496 {
+  background-color: blue;
+  max-width: 12px;
+  width: 6px;
+  height: 18px;
+  padding: 64px;
+  margin: 4px;
+}
+.card-497 {
+  background-color: red;
+  max-width: 20px;
+  width: 0px;
+  height: 16px;
+  padding: 4px;
+  margin: 20px;
+}
+.card-498 {
+  background-color: green;
+  max-width: 64px;
+  width: 0px;
+  height: 20px;
+  padding: 20px;
+  margin: 96px;
+}
+.card-499 {
+  background-color: blue;
+  max-width: 64px;
+  width: 24px;
+  height: 0px;
+  padding: 24px;
+  margin: 96px;
+}
+.card-500 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 12px;
+  height: 32px;
+  padding: 24px;
+  margin: 18px;
+}
+.card-501 {
+  background-color: blue;
+  max-width: 12px;
+  width: 64px;
+  height: 6px;
+  padding: 8px;
+  margin: 32px;
+}
+.card-502 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 96px;
+  height: 4px;
+  padding: 96px;
+  margin: 24px;
+}
+.card-503 {
+  background-color: red;
+  max-width: 96px;
+  width: 18px;
+  height: 4px;
+  padding: 18px;
+  margin: 24px;
+}
+.card-504 {
+  background-color: pink;
+  max-width: 4px;
+  width: 12px;
+  height: 20px;
+  padding: 24px;
+  margin: 96px;
+}
+.card-505 {
+  background-color: blue;
+  max-width: 32px;
+  width: 64px;
+  height: 0px;
+  padding: 4px;
+  margin: 2px;
+}
+.card-506 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 4px;
+  height: 4px;
+  padding: 6px;
+  margin: 12px;
+}
+.card-507 {
+  background-color: red;
+  max-width: 96px;
+  width: 8px;
+  height: 64px;
+  padding: 12px;
+  margin: 4px;
+}
+.card-508 {
+  background-color: pink;
+  max-width: 0px;
+  width: 24px;
+  height: 32px;
+  padding: 6px;
+  margin: 96px;
+}
+.card-509 {
+  background-color: green;
+  max-width: 32px;
+  width: 24px;
+  height: 12px;
+  padding: 24px;
+  margin: 6px;
+}
+.card-510 {
+  background-color: red;
+  max-width: 16px;
+  width: 0px;
+  height: 8px;
+  padding: 96px;
+  margin: 32px;
+}
+.card-511 {
+  background-color: green;
+  max-width: 16px;
+  width: 8px;
+  height: 16px;
+  padding: 32px;
+  margin: 2px;
+}
+.card-512 {
+  background-color: blue;
+  max-width: 64px;
+  width: 32px;
+  height: 24px;
+  padding: 20px;
+  margin: 6px;
+}
+.card-513 {
+  background-color: blue;
+  max-width: 6px;
+  width: 4px;
+  height: 96px;
+  padding: 2px;
+  margin: 6px;
+}
+.card-514 {
+  background-color: pink;
+  max-width: 24px;
+  width: 8px;
+  height: 64px;
+  padding: 6px;
+  margin: 8px;
+}
+.card-515 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 12px;
+  height: 8px;
+  padding: 2px;
+  margin: 16px;
+}
+.card-516 {
+  background-color: pink;
+  max-width: 32px;
+  width: 8px;
+  height: 4px;
+  padding: 4px;
+  margin: 96px;
+}
+.card-517 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 96px;
+  height: 16px;
+  padding: 20px;
+  margin: 0px;
+}
+.card-518 {
+  background-color: pink;
+  max-width: 12px;
+  width: 96px;
+  height: 64px;
+  padding: 6px;
+  margin: 64px;
+}
+.card-519 {
+  background-color: red;
+  max-width: 16px;
+  width: 96px;
+  height: 64px;
+  padding: 6px;
+  margin: 32px;
+}
+.card-520 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 0px;
+  height: 24px;
+  padding: 20px;
+  margin: 20px;
+}
+.card-521 {
+  background-color: yellow;
+  max-width: 12px;
+  width: 64px;
+  height: 16px;
+  padding: 2px;
+  margin: 64px;
+}
+.card-522 {
+  background-color: green;
+  max-width: 64px;
+  width: 18px;
+  height: 2px;
+  padding: 64px;
+  margin: 6px;
+}
+.card-523 {
+  background-color: green;
+  max-width: 16px;
+  width: 6px;
+  height: 96px;
+  padding: 96px;
+  margin: 6px;
+}
+.card-524 {
+  background-color: red;
+  max-width: 8px;
+  width: 16px;
+  height: 0px;
+  padding: 12px;
+  margin: 4px;
+}
+.card-525 {
+  background-color: blue;
+  max-width: 12px;
+  width: 12px;
+  height: 32px;
+  padding: 24px;
+  margin: 0px;
+}
+.card-526 {
+  background-color: green;
+  max-width: 20px;
+  width: 32px;
+  height: 18px;
+  padding: 4px;
+  margin: 18px;
+}
+.card-527 {
+  background-color: yellow;
+  max-width: 64px;
+  width: 96px;
+  height: 96px;
+  padding: 8px;
+  margin: 32px;
+}
+.card-528 {
+  background-color: green;
+  max-width: 20px;
+  width: 0px;
+  height: 20px;
+  padding: 18px;
+  margin: 8px;
+}
+.card-529 {
+  background-color: red;
+  max-width: 2px;
+  width: 4px;
+  height: 16px;
+  padding: 0px;
+  margin: 32px;
+}
+.card-530 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 2px;
+  height: 18px;
+  padding: 64px;
+  margin: 16px;
+}
+.card-531 {
+  background-color: blue;
+  max-width: 6px;
+  width: 32px;
+  height: 18px;
+  padding: 0px;
+  margin: 2px;
+}
+.card-532 {
+  background-color: red;
+  max-width: 12px;
+  width: 64px;
+  height: 6px;
+  padding: 24px;
+  margin: 96px;
+}
+.card-533 {
+  background-color: green;
+  max-width: 18px;
+  width: 4px;
+  height: 64px;
+  padding: 6px;
+  margin: 64px;
+}
+.card-534 {
+  background-color: pink;
+  max-width: 20px;
+  width: 24px;
+  height: 32px;
+  padding: 0px;
+  margin: 12px;
+}
+.card-535 {
+  background-color: red;
+  max-width: 18px;
+  width: 4px;
+  height: 2px;
+  padding: 20px;
+  margin: 18px;
+}
+.card-536 {
+  background-color: blue;
+  max-width: 64px;
+  width: 6px;
+  height: 8px;
+  padding: 4px;
+  margin: 4px;
+}
+.card-537 {
+  background-color: green;
+  max-width: 18px;
+  width: 2px;
+  height: 20px;
+  padding: 64px;
+  margin: 18px;
+}
+.card-538 {
+  background-color: pink;
+  max-width: 6px;
+  width: 18px;
+  height: 2px;
+  padding: 64px;
+  margin: 18px;
+}
+.card-539 {
+  background-color: pink;
+  max-width: 12px;
+  width: 16px;
+  height: 4px;
+  padding: 32px;
+  margin: 32px;
+}
+.card-540 {
+  background-color: green;
+  max-width: 4px;
+  width: 32px;
+  height: 20px;
+  padding: 16px;
+  margin: 12px;
+}
+.card-541 {
+  background-color: red;
+  max-width: 96px;
+  width: 16px;
+  height: 12px;
+  padding: 18px;
+  margin: 6px;
+}
+.card-542 {
+  background-color: pink;
+  max-width: 96px;
+  width: 24px;
+  height: 64px;
+  padding: 0px;
+  margin: 96px;
+}
+.card-543 {
+  background-color: green;
+  max-width: 64px;
+  width: 32px;
+  height: 16px;
+  padding: 8px;
+  margin: 4px;
+}
+.card-544 {
+  background-color: green;
+  max-width: 32px;
+  width: 18px;
+  height: 24px;
+  padding: 18px;
+  margin: 64px;
+}
+.card-545 {
+  background-color: blue;
+  max-width: 6px;
+  width: 18px;
+  height: 12px;
+  padding: 18px;
+  margin: 12px;
+}
+.card-546 {
+  background-color: green;
+  max-width: 64px;
+  width: 2px;
+  height: 64px;
+  padding: 0px;
+  margin: 32px;
+}
+.card-547 {
+  background-color: green;
+  max-width: 96px;
+  width: 20px;
+  height: 64px;
+  padding: 16px;
+  margin: 64px;
+}
+.card-548 {
+  background-color: green;
+  max-width: 8px;
+  width: 16px;
+  height: 8px;
+  padding: 18px;
+  margin: 4px;
+}
+.card-549 {
+  background-color: green;
+  max-width: 0px;
+  width: 96px;
+  height: 32px;
+  padding: 2px;
+  margin: 64px;
+}
+.card-550 {
+  background-color: pink;
+  max-width: 32px;
+  width: 18px;
+  height: 18px;
+  padding: 24px;
+  margin: 12px;
+}
+.card-551 {
+  background-color: blue;
+  max-width: 4px;
+  width: 24px;
+  height: 4px;
+  padding: 8px;
+  margin: 6px;
+}
+.card-552 {
+  background-color: blue;
+  max-width: 12px;
+  width: 24px;
+  height: 4px;
+  padding: 18px;
+  margin: 24px;
+}
+.card-553 {
+  background-color: red;
+  max-width: 2px;
+  width: 2px;
+  height: 64px;
+  padding: 16px;
+  margin: 20px;
+}
+.card-554 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 24px;
+  height: 64px;
+  padding: 8px;
+  margin: 96px;
+}
+.card-555 {
+  background-color: blue;
+  max-width: 12px;
+  width: 32px;
+  height: 16px;
+  padding: 4px;
+  margin: 96px;
+}
+.card-556 {
+  background-color: yellow;
+  max-width: 2px;
+  width: 4px;
+  height: 2px;
+  padding: 18px;
+  margin: 64px;
+}
+.card-557 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 32px;
+  height: 32px;
+  padding: 64px;
+  margin: 32px;
+}
+.card-558 {
+  background-color: blue;
+  max-width: 6px;
+  width: 96px;
+  height: 20px;
+  padding: 20px;
+  margin: 20px;
+}
+.card-559 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 8px;
+  height: 4px;
+  padding: 0px;
+  margin: 4px;
+}
+.card-560 {
+  background-color: red;
+  max-width: 96px;
+  width: 64px;
+  height: 0px;
+  padding: 0px;
+  margin: 0px;
+}
+.card-561 {
+  background-color: green;
+  max-width: 16px;
+  width: 16px;
+  height: 4px;
+  padding: 16px;
+  margin: 32px;
+}
+.card-562 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 6px;
+  height: 20px;
+  padding: 4px;
+  margin: 12px;
+}
+.card-563 {
+  background-color: blue;
+  max-width: 6px;
+  width: 20px;
+  height: 2px;
+  padding: 20px;
+  margin: 32px;
+}
+.card-564 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 32px;
+  height: 64px;
+  padding: 12px;
+  margin: 16px;
+}
+.card-565 {
+  background-color: red;
+  max-width: 20px;
+  width: 64px;
+  height: 12px;
+  padding: 6px;
+  margin: 64px;
+}
+.card-566 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 20px;
+  height: 24px;
+  padding: 96px;
+  margin: 8px;
+}
+.card-567 {
+  background-color: pink;
+  max-width: 6px;
+  width: 12px;
+  height: 0px;
+  padding: 18px;
+  margin: 2px;
+}
+.card-568 {
+  background-color: pink;
+  max-width: 6px;
+  width: 12px;
+  height: 8px;
+  padding: 0px;
+  margin: 18px;
+}
+.card-569 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 96px;
+  height: 12px;
+  padding: 4px;
+  margin: 2px;
+}
+.card-570 {
+  background-color: blue;
+  max-width: 4px;
+  width: 32px;
+  height: 18px;
+  padding: 6px;
+  margin: 64px;
+}
+.card-571 {
+  background-color: pink;
+  max-width: 8px;
+  width: 20px;
+  height: 4px;
+  padding: 6px;
+  margin: 24px;
+}
+.card-572 {
+  background-color: red;
+  max-width: 24px;
+  width: 18px;
+  height: 18px;
+  padding: 2px;
+  margin: 18px;
+}
+.card-573 {
+  background-color: blue;
+  max-width: 4px;
+  width: 16px;
+  height: 32px;
+  padding: 18px;
+  margin: 6px;
+}
+.card-574 {
+  background-color: pink;
+  max-width: 32px;
+  width: 8px;
+  height: 24px;
+  padding: 18px;
+  margin: 0px;
+}
+.card-575 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 2px;
+  height: 12px;
+  padding: 96px;
+  margin: 4px;
+}
+.card-576 {
+  background-color: green;
+  max-width: 4px;
+  width: 0px;
+  height: 16px;
+  padding: 0px;
+  margin: 64px;
+}
+.card-577 {
+  background-color: pink;
+  max-width: 32px;
+  width: 2px;
+  height: 12px;
+  padding: 2px;
+  margin: 24px;
+}
+.card-578 {
+  background-color: pink;
+  max-width: 12px;
+  width: 96px;
+  height: 64px;
+  padding: 12px;
+  margin: 18px;
+}
+.card-579 {
+  background-color: red;
+  max-width: 6px;
+  width: 12px;
+  height: 24px;
+  padding: 96px;
+  margin: 2px;
+}
+.card-580 {
+  background-color: red;
+  max-width: 18px;
+  width: 32px;
+  height: 24px;
+  padding: 4px;
+  margin: 64px;
+}
+.card-581 {
+  background-color: red;
+  max-width: 8px;
+  width: 64px;
+  height: 18px;
+  padding: 96px;
+  margin: 16px;
+}
+.card-582 {
+  background-color: green;
+  max-width: 0px;
+  width: 12px;
+  height: 32px;
+  padding: 2px;
+  margin: 4px;
+}
+.card-583 {
+  background-color: green;
+  max-width: 6px;
+  width: 18px;
+  height: 6px;
+  padding: 64px;
+  margin: 32px;
+}
+.card-584 {
+  background-color: green;
+  max-width: 16px;
+  width: 6px;
+  height: 32px;
+  padding: 18px;
+  margin: 8px;
+}
+.card-585 {
+  background-color: pink;
+  max-width: 0px;
+  width: 8px;
+  height: 32px;
+  padding: 96px;
+  margin: 64px;
+}
+.card-586 {
+  background-color: blue;
+  max-width: 96px;
+  width: 12px;
+  height: 18px;
+  padding: 24px;
+  margin: 2px;
+}
+.card-587 {
+  background-color: red;
+  max-width: 96px;
+  width: 20px;
+  height: 16px;
+  padding: 12px;
+  margin: 24px;
+}
+.card-588 {
+  background-color: red;
+  max-width: 8px;
+  width: 96px;
+  height: 24px;
+  padding: 96px;
+  margin: 6px;
+}
+.card-589 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 0px;
+  height: 12px;
+  padding: 16px;
+  margin: 18px;
+}
+.card-590 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 64px;
+  height: 2px;
+  padding: 4px;
+  margin: 0px;
+}
+.card-591 {
+  background-color: pink;
+  max-width: 4px;
+  width: 16px;
+  height: 8px;
+  padding: 12px;
+  margin: 32px;
+}
+.card-592 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 20px;
+  height: 20px;
+  padding: 2px;
+  margin: 24px;
+}
+.card-593 {
+  background-color: green;
+  max-width: 0px;
+  width: 0px;
+  height: 12px;
+  padding: 6px;
+  margin: 64px;
+}
+.card-594 {
+  background-color: red;
+  max-width: 24px;
+  width: 32px;
+  height: 6px;
+  padding: 18px;
+  margin: 8px;
+}
+.card-595 {
+  background-color: green;
+  max-width: 2px;
+  width: 4px;
+  height: 18px;
+  padding: 64px;
+  margin: 0px;
+}
+.card-596 {
+  background-color: pink;
+  max-width: 96px;
+  width: 0px;
+  height: 4px;
+  padding: 16px;
+  margin: 96px;
+}
+.card-597 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 24px;
+  height: 12px;
+  padding: 8px;
+  margin: 8px;
+}
+.card-598 {
+  background-color: blue;
+  max-width: 24px;
+  width: 20px;
+  height: 6px;
+  padding: 6px;
+  margin: 6px;
+}
+.card-599 {
+  background-color: green;
+  max-width: 2px;
+  width: 24px;
+  height: 2px;
+  padding: 0px;
+  margin: 64px;
+}
+.card-600 {
+  background-color: red;
+  max-width: 4px;
+  width: 20px;
+  height: 18px;
+  padding: 12px;
+  margin: 64px;
+}
+.card-601 {
+  background-color: pink;
+  max-width: 0px;
+  width: 96px;
+  height: 2px;
+  padding: 64px;
+  margin: 18px;
+}
+.card-602 {
+  background-color: red;
+  max-width: 18px;
+  width: 20px;
+  height: 4px;
+  padding: 64px;
+  margin: 20px;
+}
+.card-603 {
+  background-color: green;
+  max-width: 16px;
+  width: 64px;
+  height: 12px;
+  padding: 0px;
+  margin: 24px;
+}
+.card-604 {
+  background-color: blue;
+  max-width: 12px;
+  width: 0px;
+  height: 64px;
+  padding: 12px;
+  margin: 18px;
+}
+.card-605 {
+  background-color: pink;
+  max-width: 64px;
+  width: 4px;
+  height: 96px;
+  padding: 12px;
+  margin: 12px;
+}
+.card-606 {
+  background-color: pink;
+  max-width: 6px;
+  width: 24px;
+  height: 18px;
+  padding: 8px;
+  margin: 18px;
+}
+.card-607 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 12px;
+  height: 20px;
+  padding: 12px;
+  margin: 8px;
+}
+.card-608 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 24px;
+  height: 0px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-609 {
+  background-color: pink;
+  max-width: 32px;
+  width: 4px;
+  height: 64px;
+  padding: 2px;
+  margin: 8px;
+}
+.card-610 {
+  background-color: green;
+  max-width: 24px;
+  width: 64px;
+  height: 20px;
+  padding: 18px;
+  margin: 16px;
+}
+.card-611 {
+  background-color: pink;
+  max-width: 6px;
+  width: 12px;
+  height: 18px;
+  padding: 0px;
+  margin: 96px;
+}
+.card-612 {
+  background-color: blue;
+  max-width: 8px;
+  width: 64px;
+  height: 4px;
+  padding: 2px;
+  margin: 18px;
+}
+.card-613 {
+  background-color: green;
+  max-width: 0px;
+  width: 18px;
+  height: 18px;
+  padding: 20px;
+  margin: 12px;
+}
+.card-614 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 0px;
+  height: 32px;
+  padding: 96px;
+  margin: 24px;
+}
+.card-615 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 20px;
+  height: 64px;
+  padding: 24px;
+  margin: 16px;
+}
+.card-616 {
+  background-color: red;
+  max-width: 2px;
+  width: 96px;
+  height: 32px;
+  padding: 18px;
+  margin: 12px;
+}
+.card-617 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 4px;
+  height: 6px;
+  padding: 16px;
+  margin: 12px;
+}
+.card-618 {
+  background-color: green;
+  max-width: 96px;
+  width: 20px;
+  height: 96px;
+  padding: 32px;
+  margin: 16px;
+}
+.card-619 {
+  background-color: red;
+  max-width: 96px;
+  width: 0px;
+  height: 4px;
+  padding: 16px;
+  margin: 18px;
+}
+.card-620 {
+  background-color: green;
+  max-width: 4px;
+  width: 0px;
+  height: 2px;
+  padding: 64px;
+  margin: 96px;
+}
+.card-621 {
+  background-color: red;
+  max-width: 96px;
+  width: 0px;
+  height: 12px;
+  padding: 96px;
+  margin: 4px;
+}
+.card-622 {
+  background-color: pink;
+  max-width: 6px;
+  width: 24px;
+  height: 96px;
+  padding: 2px;
+  margin: 4px;
+}
+.card-623 {
+  background-color: blue;
+  max-width: 12px;
+  width: 0px;
+  height: 4px;
+  padding: 18px;
+  margin: 8px;
+}
+.card-624 {
+  background-color: pink;
+  max-width: 18px;
+  width: 20px;
+  height: 24px;
+  padding: 0px;
+  margin: 96px;
+}
+.card-625 {
+  background-color: green;
+  max-width: 16px;
+  width: 24px;
+  height: 8px;
+  padding: 4px;
+  margin: 6px;
+}
+.card-626 {
+  background-color: pink;
+  max-width: 18px;
+  width: 0px;
+  height: 12px;
+  padding: 64px;
+  margin: 8px;
+}
+.card-627 {
+  background-color: red;
+  max-width: 18px;
+  width: 16px;
+  height: 8px;
+  padding: 24px;
+  margin: 6px;
+}
+.card-628 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 18px;
+  height: 96px;
+  padding: 18px;
+  margin: 6px;
+}
+.card-629 {
+  background-color: pink;
+  max-width: 32px;
+  width: 16px;
+  height: 0px;
+  padding: 0px;
+  margin: 96px;
+}
+.card-630 {
+  background-color: pink;
+  max-width: 6px;
+  width: 18px;
+  height: 96px;
+  padding: 12px;
+  margin: 24px;
+}
+.card-631 {
+  background-color: green;
+  max-width: 2px;
+  width: 2px;
+  height: 96px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-632 {
+  background-color: pink;
+  max-width: 18px;
+  width: 2px;
+  height: 6px;
+  padding: 20px;
+  margin: 64px;
+}
+.card-633 {
+  background-color: green;
+  max-width: 16px;
+  width: 4px;
+  height: 4px;
+  padding: 0px;
+  margin: 2px;
+}
+.card-634 {
+  background-color: green;
+  max-width: 2px;
+  width: 4px;
+  height: 2px;
+  padding: 6px;
+  margin: 12px;
+}
+.card-635 {
+  background-color: pink;
+  max-width: 32px;
+  width: 20px;
+  height: 32px;
+  padding: 12px;
+  margin: 18px;
+}
+.card-636 {
+  background-color: green;
+  max-width: 16px;
+  width: 4px;
+  height: 0px;
+  padding: 2px;
+  margin: 0px;
+}
+.card-637 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 4px;
+  height: 2px;
+  padding: 32px;
+  margin: 16px;
+}
+.card-638 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 64px;
+  height: 2px;
+  padding: 4px;
+  margin: 18px;
+}
+.card-639 {
+  background-color: blue;
+  max-width: 96px;
+  width: 12px;
+  height: 0px;
+  padding: 12px;
+  margin: 16px;
+}
+.card-640 {
+  background-color: green;
+  max-width: 18px;
+  width: 0px;
+  height: 24px;
+  padding: 6px;
+  margin: 2px;
+}
+.card-641 {
+  background-color: green;
+  max-width: 64px;
+  width: 12px;
+  height: 0px;
+  padding: 64px;
+  margin: 64px;
+}
+.card-642 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 2px;
+  height: 4px;
+  padding: 0px;
+  margin: 6px;
+}
+.card-643 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 4px;
+  height: 16px;
+  padding: 0px;
+  margin: 12px;
+}
+.card-644 {
+  background-color: green;
+  max-width: 18px;
+  width: 4px;
+  height: 2px;
+  padding: 2px;
+  margin: 96px;
+}
+.card-645 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 20px;
+  height: 16px;
+  padding: 4px;
+  margin: 24px;
+}
+.card-646 {
+  background-color: green;
+  max-width: 18px;
+  width: 32px;
+  height: 32px;
+  padding: 18px;
+  margin: 96px;
+}
+.card-647 {
+  background-color: red;
+  max-width: 24px;
+  width: 16px;
+  height: 16px;
+  padding: 64px;
+  margin: 18px;
+}
+.card-648 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 8px;
+  height: 2px;
+  padding: 16px;
+  margin: 4px;
+}
+.card-649 {
+  background-color: blue;
+  max-width: 8px;
+  width: 4px;
+  height: 12px;
+  padding: 20px;
+  margin: 96px;
+}
+.card-650 {
+  background-color: pink;
+  max-width: 32px;
+  width: 2px;
+  height: 18px;
+  padding: 16px;
+  margin: 0px;
+}
+.card-651 {
+  background-color: green;
+  max-width: 8px;
+  width: 4px;
+  height: 96px;
+  padding: 20px;
+  margin: 2px;
+}
+.card-652 {
+  background-color: red;
+  max-width: 20px;
+  width: 2px;
+  height: 6px;
+  padding: 8px;
+  margin: 6px;
+}
+.card-653 {
+  background-color: red;
+  max-width: 16px;
+  width: 12px;
+  height: 4px;
+  padding: 4px;
+  margin: 12px;
+}
+.card-654 {
+  background-color: pink;
+  max-width: 2px;
+  width: 0px;
+  height: 64px;
+  padding: 12px;
+  margin: 2px;
+}
+.card-655 {
+  background-color: pink;
+  max-width: 2px;
+  width: 24px;
+  height: 2px;
+  padding: 32px;
+  margin: 64px;
+}
+.card-656 {
+  background-color: pink;
+  max-width: 6px;
+  width: 32px;
+  height: 64px;
+  padding: 18px;
+  margin: 12px;
+}
+.card-657 {
+  background-color: blue;
+  max-width: 20px;
+  width: 6px;
+  height: 24px;
+  padding: 2px;
+  margin: 4px;
+}
+.card-658 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 96px;
+  height: 32px;
+  padding: 24px;
+  margin: 12px;
+}
+.card-659 {
+  background-color: red;
+  max-width: 4px;
+  width: 16px;
+  height: 4px;
+  padding: 8px;
+  margin: 32px;
+}
+.card-660 {
+  background-color: red;
+  max-width: 24px;
+  width: 4px;
+  height: 12px;
+  padding: 6px;
+  margin: 16px;
+}
+.card-661 {
+  background-color: green;
+  max-width: 64px;
+  width: 32px;
+  height: 16px;
+  padding: 96px;
+  margin: 0px;
+}
+.card-662 {
+  background-color: blue;
+  max-width: 4px;
+  width: 6px;
+  height: 6px;
+  padding: 6px;
+  margin: 6px;
+}
+.card-663 {
+  background-color: red;
+  max-width: 8px;
+  width: 64px;
+  height: 16px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-664 {
+  background-color: green;
+  max-width: 4px;
+  width: 12px;
+  height: 18px;
+  padding: 64px;
+  margin: 12px;
+}
+.card-665 {
+  background-color: green;
+  max-width: 4px;
+  width: 20px;
+  height: 12px;
+  padding: 20px;
+  margin: 96px;
+}
+.card-666 {
+  background-color: pink;
+  max-width: 4px;
+  width: 24px;
+  height: 12px;
+  padding: 24px;
+  margin: 24px;
+}
+.card-667 {
+  background-color: blue;
+  max-width: 64px;
+  width: 18px;
+  height: 4px;
+  padding: 16px;
+  margin: 32px;
+}
+.card-668 {
+  background-color: pink;
+  max-width: 2px;
+  width: 8px;
+  height: 20px;
+  padding: 6px;
+  margin: 96px;
+}
+.card-669 {
+  background-color: pink;
+  max-width: 12px;
+  width: 18px;
+  height: 12px;
+  padding: 12px;
+  margin: 96px;
+}
+.card-670 {
+  background-color: green;
+  max-width: 16px;
+  width: 0px;
+  height: 8px;
+  padding: 24px;
+  margin: 96px;
+}
+.card-671 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 32px;
+  height: 8px;
+  padding: 6px;
+  margin: 6px;
+}
+.card-672 {
+  background-color: pink;
+  max-width: 24px;
+  width: 8px;
+  height: 24px;
+  padding: 18px;
+  margin: 20px;
+}
+.card-673 {
+  background-color: red;
+  max-width: 32px;
+  width: 20px;
+  height: 96px;
+  padding: 0px;
+  margin: 12px;
+}
+.card-674 {
+  background-color: green;
+  max-width: 0px;
+  width: 24px;
+  height: 20px;
+  padding: 18px;
+  margin: 24px;
+}
+.card-675 {
+  background-color: pink;
+  max-width: 16px;
+  width: 18px;
+  height: 8px;
+  padding: 16px;
+  margin: 18px;
+}
+.card-676 {
+  background-color: green;
+  max-width: 12px;
+  width: 8px;
+  height: 4px;
+  padding: 96px;
+  margin: 32px;
+}
+.card-677 {
+  background-color: blue;
+  max-width: 18px;
+  width: 96px;
+  height: 12px;
+  padding: 20px;
+  margin: 4px;
+}
+.card-678 {
+  background-color: blue;
+  max-width: 4px;
+  width: 96px;
+  height: 2px;
+  padding: 12px;
+  margin: 12px;
+}
+.card-679 {
+  background-color: red;
+  max-width: 16px;
+  width: 20px;
+  height: 2px;
+  padding: 32px;
+  margin: 12px;
+}
+.card-680 {
+  background-color: blue;
+  max-width: 96px;
+  width: 8px;
+  height: 12px;
+  padding: 2px;
+  margin: 8px;
+}
+.card-681 {
+  background-color: pink;
+  max-width: 24px;
+  width: 8px;
+  height: 0px;
+  padding: 4px;
+  margin: 6px;
+}
+.card-682 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 6px;
+  height: 20px;
+  padding: 32px;
+  margin: 16px;
+}
+.card-683 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 0px;
+  height: 96px;
+  padding: 64px;
+  margin: 0px;
+}
+.card-684 {
+  background-color: red;
+  max-width: 12px;
+  width: 4px;
+  height: 8px;
+  padding: 96px;
+  margin: 2px;
+}
+.card-685 {
+  background-color: red;
+  max-width: 24px;
+  width: 20px;
+  height: 18px;
+  padding: 64px;
+  margin: 24px;
+}
+.card-686 {
+  background-color: red;
+  max-width: 2px;
+  width: 8px;
+  height: 12px;
+  padding: 6px;
+  margin: 0px;
+}
+.card-687 {
+  background-color: pink;
+  max-width: 96px;
+  width: 20px;
+  height: 8px;
+  padding: 64px;
+  margin: 12px;
+}
+.card-688 {
+  background-color: red;
+  max-width: 4px;
+  width: 0px;
+  height: 16px;
+  padding: 2px;
+  margin: 12px;
+}
+.card-689 {
+  background-color: blue;
+  max-width: 4px;
+  width: 2px;
+  height: 24px;
+  padding: 24px;
+  margin: 32px;
+}
+.card-690 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 2px;
+  height: 20px;
+  padding: 96px;
+  margin: 18px;
+}
+.card-691 {
+  background-color: pink;
+  max-width: 6px;
+  width: 12px;
+  height: 12px;
+  padding: 6px;
+  margin: 96px;
+}
+.card-692 {
+  background-color: pink;
+  max-width: 32px;
+  width: 8px;
+  height: 4px;
+  padding: 8px;
+  margin: 0px;
+}
+.card-693 {
+  background-color: blue;
+  max-width: 6px;
+  width: 20px;
+  height: 6px;
+  padding: 2px;
+  margin: 24px;
+}
+.card-694 {
+  background-color: yellow;
+  max-width: 12px;
+  width: 0px;
+  height: 64px;
+  padding: 4px;
+  margin: 96px;
+}
+.card-695 {
+  background-color: green;
+  max-width: 18px;
+  width: 0px;
+  height: 96px;
+  padding: 18px;
+  margin: 8px;
+}
+.card-696 {
+  background-color: red;
+  max-width: 32px;
+  width: 64px;
+  height: 16px;
+  padding: 8px;
+  margin: 12px;
+}
+.card-697 {
+  background-color: green;
+  max-width: 2px;
+  width: 64px;
+  height: 0px;
+  padding: 32px;
+  margin: 96px;
+}
+.card-698 {
+  background-color: green;
+  max-width: 6px;
+  width: 6px;
+  height: 96px;
+  padding: 32px;
+  margin: 8px;
+}
+.card-699 {
+  background-color: blue;
+  max-width: 6px;
+  width: 4px;
+  height: 6px;
+  padding: 0px;
+  margin: 4px;
+}
+.card-700 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 96px;
+  height: 16px;
+  padding: 20px;
+  margin: 0px;
+}
+.card-701 {
+  background-color: pink;
+  max-width: 16px;
+  width: 4px;
+  height: 6px;
+  padding: 18px;
+  margin: 8px;
+}
+.card-702 {
+  background-color: yellow;
+  max-width: 12px;
+  width: 12px;
+  height: 16px;
+  padding: 96px;
+  margin: 6px;
+}
+.card-703 {
+  background-color: blue;
+  max-width: 2px;
+  width: 12px;
+  height: 18px;
+  padding: 2px;
+  margin: 96px;
+}
+.card-704 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 8px;
+  height: 20px;
+  padding: 18px;
+  margin: 0px;
+}
+.card-705 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 20px;
+  height: 18px;
+  padding: 0px;
+  margin: 8px;
+}
+.card-706 {
+  background-color: green;
+  max-width: 12px;
+  width: 12px;
+  height: 6px;
+  padding: 18px;
+  margin: 12px;
+}
+.card-707 {
+  background-color: blue;
+  max-width: 96px;
+  width: 64px;
+  height: 12px;
+  padding: 6px;
+  margin: 12px;
+}
+.card-708 {
+  background-color: pink;
+  max-width: 2px;
+  width: 96px;
+  height: 64px;
+  padding: 2px;
+  margin: 8px;
+}
+.card-709 {
+  background-color: green;
+  max-width: 4px;
+  width: 18px;
+  height: 0px;
+  padding: 6px;
+  margin: 8px;
+}
+.card-710 {
+  background-color: pink;
+  max-width: 12px;
+  width: 8px;
+  height: 24px;
+  padding: 2px;
+  margin: 64px;
+}
+.card-711 {
+  background-color: green;
+  max-width: 8px;
+  width: 32px;
+  height: 32px;
+  padding: 96px;
+  margin: 18px;
+}
+.card-712 {
+  background-color: green;
+  max-width: 96px;
+  width: 4px;
+  height: 16px;
+  padding: 18px;
+  margin: 24px;
+}
+.card-713 {
+  background-color: yellow;
+  max-width: 12px;
+  width: 24px;
+  height: 32px;
+  padding: 20px;
+  margin: 18px;
+}
+.card-714 {
+  background-color: blue;
+  max-width: 20px;
+  width: 4px;
+  height: 24px;
+  padding: 20px;
+  margin: 12px;
+}
+.card-715 {
+  background-color: green;
+  max-width: 64px;
+  width: 20px;
+  height: 64px;
+  padding: 16px;
+  margin: 4px;
+}
+.card-716 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 6px;
+  height: 8px;
+  padding: 96px;
+  margin: 20px;
+}
+.card-717 {
+  background-color: pink;
+  max-width: 64px;
+  width: 18px;
+  height: 24px;
+  padding: 20px;
+  margin: 8px;
+}
+.card-718 {
+  background-color: green;
+  max-width: 2px;
+  width: 32px;
+  height: 20px;
+  padding: 18px;
+  margin: 0px;
+}
+.card-719 {
+  background-color: blue;
+  max-width: 24px;
+  width: 20px;
+  height: 20px;
+  padding: 20px;
+  margin: 20px;
+}
+.card-720 {
+  background-color: green;
+  max-width: 0px;
+  width: 8px;
+  height: 6px;
+  padding: 24px;
+  margin: 32px;
+}
+.card-721 {
+  background-color: green;
+  max-width: 18px;
+  width: 20px;
+  height: 4px;
+  padding: 12px;
+  margin: 8px;
+}
+.card-722 {
+  background-color: green;
+  max-width: 20px;
+  width: 12px;
+  height: 2px;
+  padding: 6px;
+  margin: 8px;
+}
+.card-723 {
+  background-color: red;
+  max-width: 24px;
+  width: 8px;
+  height: 16px;
+  padding: 20px;
+  margin: 2px;
+}
+.card-724 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 2px;
+  height: 96px;
+  padding: 8px;
+  margin: 32px;
+}
+.card-725 {
+  background-color: red;
+  max-width: 8px;
+  width: 20px;
+  height: 0px;
+  padding: 16px;
+  margin: 12px;
+}
+.card-726 {
+  background-color: green;
+  max-width: 64px;
+  width: 32px;
+  height: 6px;
+  padding: 18px;
+  margin: 0px;
+}
+.card-727 {
+  background-color: red;
+  max-width: 20px;
+  width: 2px;
+  height: 64px;
+  padding: 32px;
+  margin: 12px;
+}
+.card-728 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 20px;
+  height: 12px;
+  padding: 64px;
+  margin: 24px;
+}
+.card-729 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 2px;
+  height: 8px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-730 {
+  background-color: red;
+  max-width: 8px;
+  width: 20px;
+  height: 2px;
+  padding: 20px;
+  margin: 16px;
+}
+.card-731 {
+  background-color: green;
+  max-width: 4px;
+  width: 20px;
+  height: 20px;
+  padding: 12px;
+  margin: 16px;
+}
+.card-732 {
+  background-color: pink;
+  max-width: 4px;
+  width: 8px;
+  height: 2px;
+  padding: 24px;
+  margin: 32px;
+}
+.card-733 {
+  background-color: green;
+  max-width: 32px;
+  width: 24px;
+  height: 64px;
+  padding: 4px;
+  margin: 96px;
+}
+.card-734 {
+  background-color: blue;
+  max-width: 12px;
+  width: 6px;
+  height: 64px;
+  padding: 4px;
+  margin: 8px;
+}
+.card-735 {
+  background-color: red;
+  max-width: 32px;
+  width: 32px;
+  height: 8px;
+  padding: 64px;
+  margin: 12px;
+}
+.card-736 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 8px;
+  height: 12px;
+  padding: 18px;
+  margin: 32px;
+}
+.card-737 {
+  background-color: blue;
+  max-width: 18px;
+  width: 2px;
+  height: 20px;
+  padding: 2px;
+  margin: 12px;
+}
+.card-738 {
+  background-color: pink;
+  max-width: 0px;
+  width: 20px;
+  height: 0px;
+  padding: 6px;
+  margin: 8px;
+}
+.card-739 {
+  background-color: pink;
+  max-width: 32px;
+  width: 20px;
+  height: 4px;
+  padding: 2px;
+  margin: 24px;
+}
+.card-740 {
+  background-color: blue;
+  max-width: 32px;
+  width: 32px;
+  height: 8px;
+  padding: 12px;
+  margin: 6px;
+}
+.card-741 {
+  background-color: pink;
+  max-width: 18px;
+  width: 64px;
+  height: 20px;
+  padding: 64px;
+  margin: 6px;
+}
+.card-742 {
+  background-color: red;
+  max-width: 24px;
+  width: 18px;
+  height: 6px;
+  padding: 12px;
+  margin: 32px;
+}
+.card-743 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 12px;
+  height: 32px;
+  padding: 8px;
+  margin: 2px;
+}
+.card-744 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 2px;
+  height: 64px;
+  padding: 2px;
+  margin: 64px;
+}
+.card-745 {
+  background-color: blue;
+  max-width: 4px;
+  width: 6px;
+  height: 18px;
+  padding: 8px;
+  margin: 32px;
+}
+.card-746 {
+  background-color: red;
+  max-width: 20px;
+  width: 96px;
+  height: 64px;
+  padding: 0px;
+  margin: 4px;
+}
+.card-747 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 0px;
+  height: 16px;
+  padding: 8px;
+  margin: 6px;
+}
+.card-748 {
+  background-color: pink;
+  max-width: 2px;
+  width: 20px;
+  height: 16px;
+  padding: 12px;
+  margin: 32px;
+}
+.card-749 {
+  background-color: yellow;
+  max-width: 64px;
+  width: 20px;
+  height: 96px;
+  padding: 18px;
+  margin: 20px;
+}
+.card-750 {
+  background-color: blue;
+  max-width: 20px;
+  width: 0px;
+  height: 4px;
+  padding: 12px;
+  margin: 96px;
+}
+.card-751 {
+  background-color: pink;
+  max-width: 4px;
+  width: 12px;
+  height: 2px;
+  padding: 12px;
+  margin: 18px;
+}
+.card-752 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 18px;
+  height: 18px;
+  padding: 16px;
+  margin: 64px;
+}
+.card-753 {
+  background-color: red;
+  max-width: 6px;
+  width: 24px;
+  height: 2px;
+  padding: 24px;
+  margin: 24px;
+}
+.card-754 {
+  background-color: pink;
+  max-width: 4px;
+  width: 16px;
+  height: 6px;
+  padding: 64px;
+  margin: 12px;
+}
+.card-755 {
+  background-color: green;
+  max-width: 12px;
+  width: 6px;
+  height: 12px;
+  padding: 96px;
+  margin: 18px;
+}
+.card-756 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 20px;
+  height: 96px;
+  padding: 32px;
+  margin: 96px;
+}
+.card-757 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 20px;
+  height: 16px;
+  padding: 4px;
+  margin: 18px;
+}
+.card-758 {
+  background-color: yellow;
+  max-width: 2px;
+  width: 12px;
+  height: 64px;
+  padding: 4px;
+  margin: 8px;
+}
+.card-759 {
+  background-color: green;
+  max-width: 4px;
+  width: 32px;
+  height: 2px;
+  padding: 16px;
+  margin: 24px;
+}
+.card-760 {
+  background-color: pink;
+  max-width: 6px;
+  width: 6px;
+  height: 2px;
+  padding: 18px;
+  margin: 32px;
+}
+.card-761 {
+  background-color: green;
+  max-width: 64px;
+  width: 4px;
+  height: 4px;
+  padding: 20px;
+  margin: 24px;
+}
+.card-762 {
+  background-color: yellow;
+  max-width: 64px;
+  width: 8px;
+  height: 12px;
+  padding: 0px;
+  margin: 32px;
+}
+.card-763 {
+  background-color: pink;
+  max-width: 24px;
+  width: 4px;
+  height: 18px;
+  padding: 0px;
+  margin: 8px;
+}
+.card-764 {
+  background-color: pink;
+  max-width: 64px;
+  width: 0px;
+  height: 12px;
+  padding: 64px;
+  margin: 96px;
+}
+.card-765 {
+  background-color: green;
+  max-width: 2px;
+  width: 64px;
+  height: 6px;
+  padding: 96px;
+  margin: 4px;
+}
+.card-766 {
+  background-color: pink;
+  max-width: 8px;
+  width: 2px;
+  height: 6px;
+  padding: 20px;
+  margin: 12px;
+}
+.card-767 {
+  background-color: green;
+  max-width: 2px;
+  width: 0px;
+  height: 12px;
+  padding: 18px;
+  margin: 0px;
+}
+.card-768 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 24px;
+  height: 20px;
+  padding: 8px;
+  margin: 12px;
+}
+.card-769 {
+  background-color: red;
+  max-width: 64px;
+  width: 20px;
+  height: 20px;
+  padding: 12px;
+  margin: 6px;
+}
+.card-770 {
+  background-color: red;
+  max-width: 32px;
+  width: 12px;
+  height: 20px;
+  padding: 4px;
+  margin: 6px;
+}
+.card-771 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 0px;
+  height: 96px;
+  padding: 96px;
+  margin: 16px;
+}
+.card-772 {
+  background-color: green;
+  max-width: 6px;
+  width: 8px;
+  height: 64px;
+  padding: 16px;
+  margin: 20px;
+}
+.card-773 {
+  background-color: red;
+  max-width: 20px;
+  width: 4px;
+  height: 8px;
+  padding: 2px;
+  margin: 12px;
+}
+.card-774 {
+  background-color: green;
+  max-width: 32px;
+  width: 18px;
+  height: 4px;
+  padding: 4px;
+  margin: 64px;
+}
+.card-775 {
+  background-color: green;
+  max-width: 8px;
+  width: 96px;
+  height: 20px;
+  padding: 16px;
+  margin: 20px;
+}
+.card-776 {
+  background-color: green;
+  max-width: 18px;
+  width: 12px;
+  height: 6px;
+  padding: 64px;
+  margin: 24px;
+}
+.card-777 {
+  background-color: pink;
+  max-width: 18px;
+  width: 64px;
+  height: 96px;
+  padding: 32px;
+  margin: 0px;
+}
+.card-778 {
+  background-color: pink;
+  max-width: 0px;
+  width: 18px;
+  height: 18px;
+  padding: 20px;
+  margin: 4px;
+}
+.card-779 {
+  background-color: pink;
+  max-width: 8px;
+  width: 24px;
+  height: 16px;
+  padding: 4px;
+  margin: 8px;
+}
+.card-780 {
+  background-color: red;
+  max-width: 64px;
+  width: 12px;
+  height: 18px;
+  padding: 18px;
+  margin: 4px;
+}
+.card-781 {
+  background-color: yellow;
+  max-width: 0px;
+  width: 12px;
+  height: 8px;
+  padding: 0px;
+  margin: 12px;
+}
+.card-782 {
+  background-color: red;
+  max-width: 18px;
+  width: 0px;
+  height: 0px;
+  padding: 18px;
+  margin: 12px;
+}
+.card-783 {
+  background-color: blue;
+  max-width: 8px;
+  width: 2px;
+  height: 2px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-784 {
+  background-color: blue;
+  max-width: 2px;
+  width: 4px;
+  height: 8px;
+  padding: 6px;
+  margin: 20px;
+}
+.card-785 {
+  background-color: blue;
+  max-width: 18px;
+  width: 16px;
+  height: 8px;
+  padding: 64px;
+  margin: 8px;
+}
+.card-786 {
+  background-color: blue;
+  max-width: 64px;
+  width: 8px;
+  height: 18px;
+  padding: 4px;
+  margin: 18px;
+}
+.card-787 {
+  background-color: blue;
+  max-width: 24px;
+  width: 8px;
+  height: 20px;
+  padding: 8px;
+  margin: 4px;
+}
+.card-788 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 16px;
+  height: 32px;
+  padding: 18px;
+  margin: 18px;
+}
+.card-789 {
+  background-color: green;
+  max-width: 32px;
+  width: 8px;
+  height: 32px;
+  padding: 20px;
+  margin: 64px;
+}
+.card-790 {
+  background-color: red;
+  max-width: 8px;
+  width: 0px;
+  height: 6px;
+  padding: 20px;
+  margin: 18px;
+}
+.card-791 {
+  background-color: blue;
+  max-width: 12px;
+  width: 18px;
+  height: 4px;
+  padding: 4px;
+  margin: 4px;
+}
+.card-792 {
+  background-color: green;
+  max-width: 18px;
+  width: 32px;
+  height: 0px;
+  padding: 32px;
+  margin: 16px;
+}
+.card-793 {
+  background-color: pink;
+  max-width: 24px;
+  width: 6px;
+  height: 96px;
+  padding: 4px;
+  margin: 64px;
+}
+.card-794 {
+  background-color: pink;
+  max-width: 18px;
+  width: 16px;
+  height: 96px;
+  padding: 96px;
+  margin: 6px;
+}
+.card-795 {
+  background-color: blue;
+  max-width: 6px;
+  width: 20px;
+  height: 96px;
+  padding: 6px;
+  margin: 4px;
+}
+.card-796 {
+  background-color: pink;
+  max-width: 6px;
+  width: 32px;
+  height: 24px;
+  padding: 4px;
+  margin: 18px;
+}
+.card-797 {
+  background-color: pink;
+  max-width: 8px;
+  width: 0px;
+  height: 12px;
+  padding: 32px;
+  margin: 2px;
+}
+.card-798 {
+  background-color: yellow;
+  max-width: 64px;
+  width: 6px;
+  height: 16px;
+  padding: 0px;
+  margin: 8px;
+}
+.card-799 {
+  background-color: green;
+  max-width: 64px;
+  width: 96px;
+  height: 12px;
+  padding: 6px;
+  margin: 12px;
+}
+.card-800 {
+  background-color: red;
+  max-width: 0px;
+  width: 0px;
+  height: 20px;
+  padding: 18px;
+  margin: 32px;
+}
+.card-801 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 4px;
+  height: 18px;
+  padding: 2px;
+  margin: 64px;
+}
+.card-802 {
+  background-color: red;
+  max-width: 4px;
+  width: 24px;
+  height: 6px;
+  padding: 6px;
+  margin: 16px;
+}
+.card-803 {
+  background-color: green;
+  max-width: 32px;
+  width: 0px;
+  height: 64px;
+  padding: 64px;
+  margin: 12px;
+}
+.card-804 {
+  background-color: green;
+  max-width: 4px;
+  width: 96px;
+  height: 18px;
+  padding: 12px;
+  margin: 24px;
+}
+.card-805 {
+  background-color: pink;
+  max-width: 24px;
+  width: 12px;
+  height: 16px;
+  padding: 24px;
+  margin: 18px;
+}
+.card-806 {
+  background-color: green;
+  max-width: 8px;
+  width: 16px;
+  height: 8px;
+  padding: 16px;
+  margin: 12px;
+}
+.card-807 {
+  background-color: green;
+  max-width: 12px;
+  width: 20px;
+  height: 2px;
+  padding: 2px;
+  margin: 2px;
+}
+.card-808 {
+  background-color: green;
+  max-width: 4px;
+  width: 2px;
+  height: 12px;
+  padding: 2px;
+  margin: 16px;
+}
+.card-809 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 64px;
+  height: 24px;
+  padding: 4px;
+  margin: 6px;
+}
+.card-810 {
+  background-color: red;
+  max-width: 20px;
+  width: 20px;
+  height: 96px;
+  padding: 20px;
+  margin: 96px;
+}
+.card-811 {
+  background-color: pink;
+  max-width: 16px;
+  width: 18px;
+  height: 16px;
+  padding: 96px;
+  margin: 64px;
+}
+.card-812 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 8px;
+  height: 8px;
+  padding: 96px;
+  margin: 8px;
+}
+.card-813 {
+  background-color: green;
+  max-width: 0px;
+  width: 18px;
+  height: 4px;
+  padding: 64px;
+  margin: 8px;
+}
+.card-814 {
+  background-color: green;
+  max-width: 0px;
+  width: 12px;
+  height: 4px;
+  padding: 0px;
+  margin: 12px;
+}
+.card-815 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 2px;
+  height: 32px;
+  padding: 12px;
+  margin: 18px;
+}
+.card-816 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 16px;
+  height: 16px;
+  padding: 20px;
+  margin: 24px;
+}
+.card-817 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 4px;
+  height: 4px;
+  padding: 64px;
+  margin: 12px;
+}
+.card-818 {
+  background-color: pink;
+  max-width: 16px;
+  width: 96px;
+  height: 64px;
+  padding: 8px;
+  margin: 18px;
+}
+.card-819 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 8px;
+  height: 12px;
+  padding: 0px;
+  margin: 0px;
+}
+.card-820 {
+  background-color: blue;
+  max-width: 18px;
+  width: 64px;
+  height: 4px;
+  padding: 18px;
+  margin: 96px;
+}
+.card-821 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 4px;
+  height: 64px;
+  padding: 2px;
+  margin: 18px;
+}
+.card-822 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 96px;
+  height: 4px;
+  padding: 4px;
+  margin: 32px;
+}
+.card-823 {
+  background-color: red;
+  max-width: 96px;
+  width: 0px;
+  height: 20px;
+  padding: 8px;
+  margin: 16px;
+}
+.card-824 {
+  background-color: blue;
+  max-width: 2px;
+  width: 20px;
+  height: 96px;
+  padding: 16px;
+  margin: 96px;
+}
+.card-825 {
+  background-color: red;
+  max-width: 64px;
+  width: 96px;
+  height: 16px;
+  padding: 8px;
+  margin: 4px;
+}
+.card-826 {
+  background-color: green;
+  max-width: 2px;
+  width: 2px;
+  height: 20px;
+  padding: 64px;
+  margin: 24px;
+}
+.card-827 {
+  background-color: pink;
+  max-width: 32px;
+  width: 64px;
+  height: 18px;
+  padding: 4px;
+  margin: 96px;
+}
+.card-828 {
+  background-color: blue;
+  max-width: 8px;
+  width: 96px;
+  height: 96px;
+  padding: 18px;
+  margin: 4px;
+}
+.card-829 {
+  background-color: blue;
+  max-width: 24px;
+  width: 24px;
+  height: 8px;
+  padding: 64px;
+  margin: 32px;
+}
+.card-830 {
+  background-color: green;
+  max-width: 20px;
+  width: 18px;
+  height: 6px;
+  padding: 0px;
+  margin: 20px;
+}
+.card-831 {
+  background-color: blue;
+  max-width: 12px;
+  width: 96px;
+  height: 96px;
+  padding: 32px;
+  margin: 18px;
+}
+.card-832 {
+  background-color: red;
+  max-width: 6px;
+  width: 20px;
+  height: 6px;
+  padding: 12px;
+  margin: 4px;
+}
+.card-833 {
+  background-color: blue;
+  max-width: 24px;
+  width: 18px;
+  height: 18px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-834 {
+  background-color: red;
+  max-width: 2px;
+  width: 24px;
+  height: 18px;
+  padding: 6px;
+  margin: 64px;
+}
+.card-835 {
+  background-color: green;
+  max-width: 18px;
+  width: 96px;
+  height: 4px;
+  padding: 4px;
+  margin: 96px;
+}
+.card-836 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 2px;
+  height: 0px;
+  padding: 24px;
+  margin: 18px;
+}
+.card-837 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 18px;
+  height: 24px;
+  padding: 64px;
+  margin: 24px;
+}
+.card-838 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 0px;
+  height: 96px;
+  padding: 0px;
+  margin: 8px;
+}
+.card-839 {
+  background-color: pink;
+  max-width: 12px;
+  width: 20px;
+  height: 96px;
+  padding: 32px;
+  margin: 96px;
+}
+.card-840 {
+  background-color: green;
+  max-width: 2px;
+  width: 20px;
+  height: 96px;
+  padding: 2px;
+  margin: 8px;
+}
+.card-841 {
+  background-color: red;
+  max-width: 4px;
+  width: 2px;
+  height: 20px;
+  padding: 0px;
+  margin: 6px;
+}
+.card-842 {
+  background-color: blue;
+  max-width: 8px;
+  width: 12px;
+  height: 64px;
+  padding: 18px;
+  margin: 0px;
+}
+.card-843 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 6px;
+  height: 18px;
+  padding: 16px;
+  margin: 8px;
+}
+.card-844 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 0px;
+  height: 2px;
+  padding: 4px;
+  margin: 12px;
+}
+.card-845 {
+  background-color: red;
+  max-width: 2px;
+  width: 24px;
+  height: 64px;
+  padding: 6px;
+  margin: 0px;
+}
+.card-846 {
+  background-color: blue;
+  max-width: 64px;
+  width: 20px;
+  height: 96px;
+  padding: 16px;
+  margin: 8px;
+}
+.card-847 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 18px;
+  height: 24px;
+  padding: 8px;
+  margin: 64px;
+}
+.card-848 {
+  background-color: pink;
+  max-width: 6px;
+  width: 4px;
+  height: 20px;
+  padding: 0px;
+  margin: 64px;
+}
+.card-849 {
+  background-color: red;
+  max-width: 16px;
+  width: 20px;
+  height: 20px;
+  padding: 24px;
+  margin: 6px;
+}
+.card-850 {
+  background-color: red;
+  max-width: 32px;
+  width: 2px;
+  height: 16px;
+  padding: 12px;
+  margin: 16px;
+}
+.card-851 {
+  background-color: pink;
+  max-width: 4px;
+  width: 20px;
+  height: 24px;
+  padding: 64px;
+  margin: 32px;
+}
+.card-852 {
+  background-color: green;
+  max-width: 8px;
+  width: 96px;
+  height: 12px;
+  padding: 16px;
+  margin: 12px;
+}
+.card-853 {
+  background-color: blue;
+  max-width: 8px;
+  width: 16px;
+  height: 2px;
+  padding: 20px;
+  margin: 2px;
+}
+.card-854 {
+  background-color: green;
+  max-width: 18px;
+  width: 20px;
+  height: 64px;
+  padding: 24px;
+  margin: 16px;
+}
+.card-855 {
+  background-color: pink;
+  max-width: 16px;
+  width: 2px;
+  height: 2px;
+  padding: 12px;
+  margin: 6px;
+}
+.card-856 {
+  background-color: pink;
+  max-width: 24px;
+  width: 96px;
+  height: 8px;
+  padding: 2px;
+  margin: 0px;
+}
+.card-857 {
+  background-color: green;
+  max-width: 8px;
+  width: 32px;
+  height: 64px;
+  padding: 6px;
+  margin: 8px;
+}
+.card-858 {
+  background-color: pink;
+  max-width: 4px;
+  width: 12px;
+  height: 6px;
+  padding: 8px;
+  margin: 16px;
+}
+.card-859 {
+  background-color: blue;
+  max-width: 8px;
+  width: 32px;
+  height: 12px;
+  padding: 20px;
+  margin: 2px;
+}
+.card-860 {
+  background-color: pink;
+  max-width: 0px;
+  width: 0px;
+  height: 18px;
+  padding: 0px;
+  margin: 8px;
+}
+.card-861 {
+  background-color: green;
+  max-width: 16px;
+  width: 16px;
+  height: 8px;
+  padding: 12px;
+  margin: 6px;
+}
+.card-862 {
+  background-color: pink;
+  max-width: 4px;
+  width: 64px;
+  height: 96px;
+  padding: 96px;
+  margin: 18px;
+}
+.card-863 {
+  background-color: pink;
+  max-width: 6px;
+  width: 64px;
+  height: 18px;
+  padding: 4px;
+  margin: 96px;
+}
+.card-864 {
+  background-color: pink;
+  max-width: 12px;
+  width: 16px;
+  height: 16px;
+  padding: 18px;
+  margin: 12px;
+}
+.card-865 {
+  background-color: green;
+  max-width: 32px;
+  width: 20px;
+  height: 18px;
+  padding: 0px;
+  margin: 32px;
+}
+.card-866 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 18px;
+  height: 8px;
+  padding: 4px;
+  margin: 64px;
+}
+.card-867 {
+  background-color: pink;
+  max-width: 18px;
+  width: 4px;
+  height: 8px;
+  padding: 12px;
+  margin: 24px;
+}
+.card-868 {
+  background-color: blue;
+  max-width: 2px;
+  width: 16px;
+  height: 16px;
+  padding: 4px;
+  margin: 96px;
+}
+.card-869 {
+  background-color: pink;
+  max-width: 6px;
+  width: 96px;
+  height: 16px;
+  padding: 4px;
+  margin: 20px;
+}
+.card-870 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 24px;
+  height: 4px;
+  padding: 4px;
+  margin: 0px;
+}
+.card-871 {
+  background-color: pink;
+  max-width: 32px;
+  width: 0px;
+  height: 96px;
+  padding: 16px;
+  margin: 24px;
+}
+.card-872 {
+  background-color: green;
+  max-width: 6px;
+  width: 20px;
+  height: 32px;
+  padding: 16px;
+  margin: 24px;
+}
+.card-873 {
+  background-color: blue;
+  max-width: 64px;
+  width: 32px;
+  height: 2px;
+  padding: 20px;
+  margin: 64px;
+}
+.card-874 {
+  background-color: green;
+  max-width: 4px;
+  width: 16px;
+  height: 18px;
+  padding: 2px;
+  margin: 24px;
+}
+.card-875 {
+  background-color: pink;
+  max-width: 16px;
+  width: 24px;
+  height: 18px;
+  padding: 4px;
+  margin: 96px;
+}
+.card-876 {
+  background-color: pink;
+  max-width: 32px;
+  width: 16px;
+  height: 16px;
+  padding: 24px;
+  margin: 64px;
+}
+.card-877 {
+  background-color: green;
+  max-width: 6px;
+  width: 2px;
+  height: 16px;
+  padding: 12px;
+  margin: 64px;
+}
+.card-878 {
+  background-color: yellow;
+  max-width: 20px;
+  width: 64px;
+  height: 64px;
+  padding: 8px;
+  margin: 32px;
+}
+.card-879 {
+  background-color: green;
+  max-width: 6px;
+  width: 6px;
+  height: 20px;
+  padding: 8px;
+  margin: 2px;
+}
+.card-880 {
+  background-color: red;
+  max-width: 96px;
+  width: 2px;
+  height: 6px;
+  padding: 18px;
+  margin: 18px;
+}
+.card-881 {
+  background-color: green;
+  max-width: 2px;
+  width: 6px;
+  height: 8px;
+  padding: 8px;
+  margin: 20px;
+}
+.card-882 {
+  background-color: yellow;
+  max-width: 4px;
+  width: 96px;
+  height: 16px;
+  padding: 12px;
+  margin: 6px;
+}
+.card-883 {
+  background-color: pink;
+  max-width: 8px;
+  width: 8px;
+  height: 96px;
+  padding: 6px;
+  margin: 24px;
+}
+.card-884 {
+  background-color: blue;
+  max-width: 6px;
+  width: 16px;
+  height: 8px;
+  padding: 8px;
+  margin: 64px;
+}
+.card-885 {
+  background-color: green;
+  max-width: 6px;
+  width: 20px;
+  height: 16px;
+  padding: 24px;
+  margin: 24px;
+}
+.card-886 {
+  background-color: red;
+  max-width: 0px;
+  width: 12px;
+  height: 12px;
+  padding: 16px;
+  margin: 64px;
+}
+.card-887 {
+  background-color: green;
+  max-width: 24px;
+  width: 4px;
+  height: 64px;
+  padding: 8px;
+  margin: 64px;
+}
+.card-888 {
+  background-color: yellow;
+  max-width: 64px;
+  width: 0px;
+  height: 12px;
+  padding: 0px;
+  margin: 16px;
+}
+.card-889 {
+  background-color: green;
+  max-width: 18px;
+  width: 0px;
+  height: 0px;
+  padding: 0px;
+  margin: 4px;
+}
+.card-890 {
+  background-color: yellow;
+  max-width: 32px;
+  width: 16px;
+  height: 64px;
+  padding: 12px;
+  margin: 4px;
+}
+.card-891 {
+  background-color: green;
+  max-width: 16px;
+  width: 24px;
+  height: 64px;
+  padding: 12px;
+  margin: 8px;
+}
+.card-892 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 18px;
+  height: 20px;
+  padding: 2px;
+  margin: 18px;
+}
+.card-893 {
+  background-color: red;
+  max-width: 32px;
+  width: 4px;
+  height: 16px;
+  padding: 0px;
+  margin: 8px;
+}
+.card-894 {
+  background-color: pink;
+  max-width: 16px;
+  width: 12px;
+  height: 0px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-895 {
+  background-color: pink;
+  max-width: 6px;
+  width: 8px;
+  height: 12px;
+  padding: 12px;
+  margin: 8px;
+}
+.card-896 {
+  background-color: green;
+  max-width: 24px;
+  width: 18px;
+  height: 18px;
+  padding: 96px;
+  margin: 16px;
+}
+.card-897 {
+  background-color: red;
+  max-width: 24px;
+  width: 32px;
+  height: 12px;
+  padding: 24px;
+  margin: 6px;
+}
+.card-898 {
+  background-color: pink;
+  max-width: 20px;
+  width: 0px;
+  height: 24px;
+  padding: 18px;
+  margin: 24px;
+}
+.card-899 {
+  background-color: red;
+  max-width: 64px;
+  width: 12px;
+  height: 32px;
+  padding: 2px;
+  margin: 24px;
+}
+.card-900 {
+  background-color: blue;
+  max-width: 96px;
+  width: 12px;
+  height: 16px;
+  padding: 20px;
+  margin: 64px;
+}
+.card-901 {
+  background-color: blue;
+  max-width: 6px;
+  width: 32px;
+  height: 4px;
+  padding: 64px;
+  margin: 20px;
+}
+.card-902 {
+  background-color: red;
+  max-width: 64px;
+  width: 32px;
+  height: 2px;
+  padding: 2px;
+  margin: 0px;
+}
+.card-903 {
+  background-color: blue;
+  max-width: 4px;
+  width: 12px;
+  height: 2px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-904 {
+  background-color: blue;
+  max-width: 8px;
+  width: 0px;
+  height: 12px;
+  padding: 32px;
+  margin: 64px;
+}
+.card-905 {
+  background-color: pink;
+  max-width: 0px;
+  width: 96px;
+  height: 96px;
+  padding: 96px;
+  margin: 64px;
+}
+.card-906 {
+  background-color: red;
+  max-width: 16px;
+  width: 96px;
+  height: 96px;
+  padding: 24px;
+  margin: 18px;
+}
+.card-907 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 24px;
+  height: 12px;
+  padding: 8px;
+  margin: 4px;
+}
+.card-908 {
+  background-color: red;
+  max-width: 0px;
+  width: 24px;
+  height: 20px;
+  padding: 32px;
+  margin: 16px;
+}
+.card-909 {
+  background-color: red;
+  max-width: 2px;
+  width: 64px;
+  height: 20px;
+  padding: 8px;
+  margin: 4px;
+}
+.card-910 {
+  background-color: green;
+  max-width: 4px;
+  width: 18px;
+  height: 2px;
+  padding: 0px;
+  margin: 18px;
+}
+.card-911 {
+  background-color: pink;
+  max-width: 20px;
+  width: 20px;
+  height: 2px;
+  padding: 4px;
+  margin: 64px;
+}
+.card-912 {
+  background-color: pink;
+  max-width: 18px;
+  width: 18px;
+  height: 32px;
+  padding: 96px;
+  margin: 6px;
+}
+.card-913 {
+  background-color: pink;
+  max-width: 96px;
+  width: 6px;
+  height: 6px;
+  padding: 96px;
+  margin: 32px;
+}
+.card-914 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 12px;
+  height: 16px;
+  padding: 6px;
+  margin: 18px;
+}
+.card-915 {
+  background-color: blue;
+  max-width: 16px;
+  width: 2px;
+  height: 24px;
+  padding: 20px;
+  margin: 0px;
+}
+.card-916 {
+  background-color: green;
+  max-width: 18px;
+  width: 6px;
+  height: 32px;
+  padding: 6px;
+  margin: 24px;
+}
+.card-917 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 20px;
+  height: 6px;
+  padding: 24px;
+  margin: 18px;
+}
+.card-918 {
+  background-color: blue;
+  max-width: 8px;
+  width: 4px;
+  height: 12px;
+  padding: 16px;
+  margin: 64px;
+}
+.card-919 {
+  background-color: red;
+  max-width: 18px;
+  width: 32px;
+  height: 8px;
+  padding: 32px;
+  margin: 8px;
+}
+.card-920 {
+  background-color: red;
+  max-width: 8px;
+  width: 18px;
+  height: 12px;
+  padding: 12px;
+  margin: 18px;
+}
+.card-921 {
+  background-color: green;
+  max-width: 8px;
+  width: 32px;
+  height: 8px;
+  padding: 96px;
+  margin: 64px;
+}
+.card-922 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 8px;
+  height: 16px;
+  padding: 24px;
+  margin: 32px;
+}
+.card-923 {
+  background-color: pink;
+  max-width: 96px;
+  width: 20px;
+  height: 64px;
+  padding: 4px;
+  margin: 32px;
+}
+.card-924 {
+  background-color: pink;
+  max-width: 18px;
+  width: 64px;
+  height: 20px;
+  padding: 12px;
+  margin: 4px;
+}
+.card-925 {
+  background-color: red;
+  max-width: 8px;
+  width: 8px;
+  height: 4px;
+  padding: 16px;
+  margin: 32px;
+}
+.card-926 {
+  background-color: pink;
+  max-width: 0px;
+  width: 2px;
+  height: 24px;
+  padding: 32px;
+  margin: 2px;
+}
+.card-927 {
+  background-color: yellow;
+  max-width: 96px;
+  width: 12px;
+  height: 16px;
+  padding: 4px;
+  margin: 0px;
+}
+.card-928 {
+  background-color: pink;
+  max-width: 96px;
+  width: 32px;
+  height: 4px;
+  padding: 18px;
+  margin: 32px;
+}
+.card-929 {
+  background-color: yellow;
+  max-width: 2px;
+  width: 0px;
+  height: 2px;
+  padding: 6px;
+  margin: 20px;
+}
+.card-930 {
+  background-color: pink;
+  max-width: 16px;
+  width: 32px;
+  height: 2px;
+  padding: 24px;
+  margin: 64px;
+}
+.card-931 {
+  background-color: blue;
+  max-width: 16px;
+  width: 6px;
+  height: 16px;
+  padding: 2px;
+  margin: 20px;
+}
+.card-932 {
+  background-color: pink;
+  max-width: 64px;
+  width: 18px;
+  height: 4px;
+  padding: 8px;
+  margin: 24px;
+}
+.card-933 {
+  background-color: blue;
+  max-width: 0px;
+  width: 32px;
+  height: 0px;
+  padding: 4px;
+  margin: 8px;
+}
+.card-934 {
+  background-color: pink;
+  max-width: 0px;
+  width: 20px;
+  height: 24px;
+  padding: 64px;
+  margin: 24px;
+}
+.card-935 {
+  background-color: blue;
+  max-width: 24px;
+  width: 96px;
+  height: 16px;
+  padding: 32px;
+  margin: 32px;
+}
+.card-936 {
+  background-color: green;
+  max-width: 16px;
+  width: 0px;
+  height: 12px;
+  padding: 8px;
+  margin: 12px;
+}
+.card-937 {
+  background-color: pink;
+  max-width: 18px;
+  width: 8px;
+  height: 16px;
+  padding: 2px;
+  margin: 4px;
+}
+.card-938 {
+  background-color: blue;
+  max-width: 24px;
+  width: 24px;
+  height: 18px;
+  padding: 20px;
+  margin: 20px;
+}
+.card-939 {
+  background-color: yellow;
+  max-width: 12px;
+  width: 4px;
+  height: 12px;
+  padding: 0px;
+  margin: 24px;
+}
+.card-940 {
+  background-color: green;
+  max-width: 32px;
+  width: 0px;
+  height: 20px;
+  padding: 24px;
+  margin: 6px;
+}
+.card-941 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 6px;
+  height: 96px;
+  padding: 18px;
+  margin: 64px;
+}
+.card-942 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 0px;
+  height: 6px;
+  padding: 6px;
+  margin: 64px;
+}
+.card-943 {
+  background-color: blue;
+  max-width: 64px;
+  width: 96px;
+  height: 16px;
+  padding: 2px;
+  margin: 96px;
+}
+.card-944 {
+  background-color: blue;
+  max-width: 96px;
+  width: 20px;
+  height: 32px;
+  padding: 4px;
+  margin: 18px;
+}
+.card-945 {
+  background-color: red;
+  max-width: 0px;
+  width: 18px;
+  height: 6px;
+  padding: 8px;
+  margin: 12px;
+}
+.card-946 {
+  background-color: yellow;
+  max-width: 2px;
+  width: 32px;
+  height: 32px;
+  padding: 8px;
+  margin: 24px;
+}
+.card-947 {
+  background-color: green;
+  max-width: 24px;
+  width: 24px;
+  height: 12px;
+  padding: 8px;
+  margin: 0px;
+}
+.card-948 {
+  background-color: green;
+  max-width: 4px;
+  width: 16px;
+  height: 32px;
+  padding: 16px;
+  margin: 8px;
+}
+.card-949 {
+  background-color: green;
+  max-width: 8px;
+  width: 20px;
+  height: 20px;
+  padding: 32px;
+  margin: 24px;
+}
+.card-950 {
+  background-color: green;
+  max-width: 32px;
+  width: 20px;
+  height: 4px;
+  padding: 24px;
+  margin: 2px;
+}
+.card-951 {
+  background-color: red;
+  max-width: 20px;
+  width: 12px;
+  height: 0px;
+  padding: 96px;
+  margin: 2px;
+}
+.card-952 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 24px;
+  height: 24px;
+  padding: 16px;
+  margin: 64px;
+}
+.card-953 {
+  background-color: green;
+  max-width: 18px;
+  width: 24px;
+  height: 2px;
+  padding: 12px;
+  margin: 32px;
+}
+.card-954 {
+  background-color: blue;
+  max-width: 18px;
+  width: 2px;
+  height: 64px;
+  padding: 8px;
+  margin: 4px;
+}
+.card-955 {
+  background-color: green;
+  max-width: 4px;
+  width: 96px;
+  height: 32px;
+  padding: 0px;
+  margin: 12px;
+}
+.card-956 {
+  background-color: green;
+  max-width: 24px;
+  width: 96px;
+  height: 20px;
+  padding: 96px;
+  margin: 24px;
+}
+.card-957 {
+  background-color: blue;
+  max-width: 20px;
+  width: 96px;
+  height: 12px;
+  padding: 96px;
+  margin: 20px;
+}
+.card-958 {
+  background-color: red;
+  max-width: 32px;
+  width: 18px;
+  height: 6px;
+  padding: 0px;
+  margin: 18px;
+}
+.card-959 {
+  background-color: red;
+  max-width: 12px;
+  width: 12px;
+  height: 4px;
+  padding: 8px;
+  margin: 0px;
+}
+.card-960 {
+  background-color: blue;
+  max-width: 24px;
+  width: 18px;
+  height: 6px;
+  padding: 4px;
+  margin: 20px;
+}
+.card-961 {
+  background-color: yellow;
+  max-width: 24px;
+  width: 12px;
+  height: 96px;
+  padding: 24px;
+  margin: 12px;
+}
+.card-962 {
+  background-color: green;
+  max-width: 96px;
+  width: 4px;
+  height: 16px;
+  padding: 16px;
+  margin: 16px;
+}
+.card-963 {
+  background-color: green;
+  max-width: 0px;
+  width: 96px;
+  height: 96px;
+  padding: 32px;
+  margin: 12px;
+}
+.card-964 {
+  background-color: pink;
+  max-width: 2px;
+  width: 18px;
+  height: 6px;
+  padding: 6px;
+  margin: 2px;
+}
+.card-965 {
+  background-color: yellow;
+  max-width: 6px;
+  width: 32px;
+  height: 64px;
+  padding: 20px;
+  margin: 96px;
+}
+.card-966 {
+  background-color: green;
+  max-width: 2px;
+  width: 64px;
+  height: 20px;
+  padding: 96px;
+  margin: 32px;
+}
+.card-967 {
+  background-color: pink;
+  max-width: 6px;
+  width: 2px;
+  height: 32px;
+  padding: 96px;
+  margin: 16px;
+}
+.card-968 {
+  background-color: green;
+  max-width: 6px;
+  width: 96px;
+  height: 6px;
+  padding: 6px;
+  margin: 96px;
+}
+.card-969 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 12px;
+  height: 64px;
+  padding: 24px;
+  margin: 18px;
+}
+.card-970 {
+  background-color: green;
+  max-width: 96px;
+  width: 96px;
+  height: 24px;
+  padding: 32px;
+  margin: 20px;
+}
+.card-971 {
+  background-color: yellow;
+  max-width: 2px;
+  width: 6px;
+  height: 4px;
+  padding: 24px;
+  margin: 16px;
+}
+.card-972 {
+  background-color: blue;
+  max-width: 32px;
+  width: 2px;
+  height: 8px;
+  padding: 32px;
+  margin: 2px;
+}
+.card-973 {
+  background-color: green;
+  max-width: 24px;
+  width: 12px;
+  height: 64px;
+  padding: 4px;
+  margin: 20px;
+}
+.card-974 {
+  background-color: blue;
+  max-width: 32px;
+  width: 8px;
+  height: 6px;
+  padding: 18px;
+  margin: 12px;
+}
+.card-975 {
+  background-color: green;
+  max-width: 24px;
+  width: 12px;
+  height: 24px;
+  padding: 18px;
+  margin: 96px;
+}
+.card-976 {
+  background-color: green;
+  max-width: 12px;
+  width: 12px;
+  height: 18px;
+  padding: 4px;
+  margin: 32px;
+}
+.card-977 {
+  background-color: yellow;
+  max-width: 18px;
+  width: 96px;
+  height: 2px;
+  padding: 96px;
+  margin: 64px;
+}
+.card-978 {
+  background-color: red;
+  max-width: 16px;
+  width: 6px;
+  height: 18px;
+  padding: 24px;
+  margin: 32px;
+}
+.card-979 {
+  background-color: blue;
+  max-width: 8px;
+  width: 6px;
+  height: 4px;
+  padding: 24px;
+  margin: 24px;
+}
+.card-980 {
+  background-color: red;
+  max-width: 8px;
+  width: 2px;
+  height: 4px;
+  padding: 8px;
+  margin: 16px;
+}
+.card-981 {
+  background-color: green;
+  max-width: 12px;
+  width: 20px;
+  height: 32px;
+  padding: 32px;
+  margin: 16px;
+}
+.card-982 {
+  background-color: pink;
+  max-width: 32px;
+  width: 32px;
+  height: 18px;
+  padding: 4px;
+  margin: 4px;
+}
+.card-983 {
+  background-color: red;
+  max-width: 16px;
+  width: 2px;
+  height: 12px;
+  padding: 8px;
+  margin: 4px;
+}
+.card-984 {
+  background-color: green;
+  max-width: 2px;
+  width: 96px;
+  height: 2px;
+  padding: 12px;
+  margin: 18px;
+}
+.card-985 {
+  background-color: green;
+  max-width: 24px;
+  width: 2px;
+  height: 12px;
+  padding: 6px;
+  margin: 24px;
+}
+.card-986 {
+  background-color: blue;
+  max-width: 24px;
+  width: 2px;
+  height: 12px;
+  padding: 24px;
+  margin: 20px;
+}
+.card-987 {
+  background-color: pink;
+  max-width: 12px;
+  width: 32px;
+  height: 8px;
+  padding: 18px;
+  margin: 96px;
+}
+.card-988 {
+  background-color: blue;
+  max-width: 12px;
+  width: 32px;
+  height: 24px;
+  padding: 64px;
+  margin: 64px;
+}
+.card-989 {
+  background-color: pink;
+  max-width: 24px;
+  width: 4px;
+  height: 64px;
+  padding: 18px;
+  margin: 32px;
+}
+.card-990 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 6px;
+  height: 2px;
+  padding: 20px;
+  margin: 20px;
+}
+.card-991 {
+  background-color: yellow;
+  max-width: 16px;
+  width: 24px;
+  height: 32px;
+  padding: 0px;
+  margin: 4px;
+}
+.card-992 {
+  background-color: blue;
+  max-width: 32px;
+  width: 64px;
+  height: 20px;
+  padding: 64px;
+  margin: 18px;
+}
+.card-993 {
+  background-color: red;
+  max-width: 4px;
+  width: 18px;
+  height: 24px;
+  padding: 0px;
+  margin: 2px;
+}
+.card-994 {
+  background-color: green;
+  max-width: 18px;
+  width: 16px;
+  height: 4px;
+  padding: 0px;
+  margin: 0px;
+}
+.card-995 {
+  background-color: yellow;
+  max-width: 8px;
+  width: 4px;
+  height: 24px;
+  padding: 32px;
+  margin: 4px;
+}
+.card-996 {
+  background-color: red;
+  max-width: 24px;
+  width: 96px;
+  height: 6px;
+  padding: 8px;
+  margin: 16px;
+}
+.card-997 {
+  background-color: pink;
+  max-width: 18px;
+  width: 20px;
+  height: 32px;
+  padding: 2px;
+  margin: 20px;
+}
+.card-998 {
+  background-color: red;
+  max-width: 18px;
+  width: 4px;
+  height: 64px;
+  padding: 20px;
+  margin: 12px;
+}
+.card-999 {
+  background-color: blue;
+  max-width: 18px;
+  width: 32px;
+  height: 4px;
+  padding: 0px;
+  margin: 6px;
 }
